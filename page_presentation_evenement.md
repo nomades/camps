@@ -4,14 +4,12 @@
 
 *   Photo de Nicolas Loubet en licence CC-BY-NC-SA (prise sur le MYNEcamp 2015). Source : [Pinterest](https://fr.pinterest.com/pin/188729040611270601/). 
 
-Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors, du 15 au 21/08 à la M[Y]NE - co-conçu par / pour Cellabz, Explore , Multibao, M[Y]NE / LPS, DAISEE, Le Biome, labOSe, Inventaire.io...
-<ul class="comment"><li>Plus largement cet été : [](http://www.makery.info/2016/06/28/les-jolies-colonies-de-vacances-diy/K))http://www.makery.info/2016/06/28/les-jolies-colonies-de-vacances-diy/K)</li>
-<li>
-</li></ul class="comment">
+Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 Ã  KerBors, du 15 au 21/08 Ã  la M[Y]NE - co-conÃ§u par / pour Cellabz, Explore , Multibao, M[Y]NE / LPS, DAISEE, Le Biome, labOSe, Inventaire.io...
 
 ## 0- Participant.e.s
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1468679556055_hackpad.com_LxNyipOhh0I_p.266912_1468397878219_newproject_1_original(8).jpg)
+
 <table style="font-size:13px;cell-spacing: 0px; border-collapse: collapse;"><tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Pr&#233;nom</td>
 <td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Nom</td>
 <td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Organisme(s)</td>
@@ -103,7 +101,7 @@ Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob
 <td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">OK</td>
 </tr>
 </table>
-<ul class="comment"><li>**[Marc Barto](https://twitter.com/marc_in_london)** _se propose de donner un coup de main à distance si nous en avons besoin._</li>
+<ul class="comment"><li>**[Marc Barto](https://twitter.com/marc_in_london)** _se propose de donner un coup de main Ã  distance si nous en avons besoin._</li>
 <li>
 </li></ul class="comment">
 
@@ -111,309 +109,167 @@ Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob
 
 #**KerBors**
 
-*   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prévues pour le séjour. 
+*   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prÃ©vues pour le sÃ©jour. 
 *   Remplir le [sondage](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) sur les contraintes alimentaires des participant.e.s.
-*   Relire / compléter / annoter le [budget](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) (prévisionnel) du summercamp.
+*   Relire / complÃ©ter / annoter le [budget](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) (prÃ©visionnel) du summercamp.
 *   Lieu et horaire de RDV pour le 3/08. 1ers campers & adresse du lieu
 
-*   St Brieuc Gare 16h avec François et Xavier, si vous voulez vous joindre à nous.
-*   Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonnées 48.83632, -3.19056 / [](http://osm.org/go/erOfjzIp)http://osm.org/go/erOfjzIp[ ](http://osm.org/go/erOfjzIptél)/ Tel Michèle 06 37 39 26 53 (par sms)
+Lieu du camp Chez MichÃ¨le Le Gall Turbin, Coat Lannec, 22610 Kerbors. CoordonnÃ©es 48.83632, -3.19056 /
+
+[](http://osm.org/go/erOfjzIp)http://osm.org/go/erOfjzIp[ ](http://osm.org/go/erOfjzIptÃ©l)/ Tel MichÃ¨le 06 37 39 26 53 (par sms)
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.594514_1469543819719_CoatLannec-carte1.png)
 
-## 2- Préparation
-
-**2.1 SummerCamp @ KerBors (04-15/08)**
+## 2- PrÃ©paration
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.266912_1470046217892_collage kerbors.jpg)
-<undefined><li>**<u>Participant.e.s</u>**</li></undefined>
 
-<table style="font-size:13px;cell-spacing: 0px; border-collapse: collapse;"><tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Nom</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Aller (A)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Transport A.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Retour (R)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Transport R.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Remarques</td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Xavier</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">03/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Emmanuel PQ.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">04/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">07/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Fran&#231;ois</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">03/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Maxime L.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">03/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Mich&#232;le</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">03/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture (depuis Treffendel)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Co-voiturage possible &#224; l'aller depuis Rennes</td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Thomas</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">05/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture (depuis Nantes)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Covoiturage bienvenu !</td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Caroline</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">05/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture (depuis Nantes)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Emmanuel L</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">06/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Camionette</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Camionette</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Yohann</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">12/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture (depuis Nantes)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Aur&#233;lien</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">12/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Covoiturage (avec Yohann ?)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Chlo&#233;</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">07/08 - 13/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Voiture</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">09/08 - 15/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Aur&#233;lie LG</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">08/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Train Guingamp 14h</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">11/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Covoiturage Thomas</td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">St&#233;phane L.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">08/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">En covoit de Crozon - > Guingamp (11h45)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">11/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Pour rejoindre Kerbors, Ti'bus ou co-voiturage (Thomas, Xavier)</td>
-</tr>
-<tr><td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Louna L.</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">08/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">En covoit de Crozon - > Guingamp (11h45)</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">11/08</td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added"></td>
-<td style="border:1px solid #999; min-width: 50px;height: 22px;line-height: 16px;padding: 0 4px 0 4px;" class="added">Pour rejoindre Kerbors, Ti'bus ou co-voiturage (Thomas, Xavier)</td>
-</tr>
-</table>
-<undefined><li><u>Thématiques</u></li></undefined>
+### ThÃ©matiques
 
-*   Toilettes sèches
+*   Toilettes sÃ¨ches
 *   Algae & energy
 *   Open ROV et OSH : kits filets plancton, microscopes, capteurs ...
-*   [multiBàO ](http://www.multibao.org/) ou documentation des "pépites" des communautés
+*   [multiBÃ O ](http://www.multibao.org/) ou documentation des "pÃ©pites" des communautÃ©s
 *   [BioHacker House](https://github.com/LeBiome/biohacker_house_project/blob/master/README.md)
 *   [Open Biofabrics](https://github.com/OpenBioFabrics/scoby) 
 
-<undefined><li>**<u>Logistique</u>**</li></undefined>
+### Logistique
 
-<u>Gare la plus proche</u>
+#### Gare la plus proche
 
-*   Guingamp à 25' de voiture
+*   Guingamp Ã  25' de voiture
 *   Au besoin, on peut venir vous chercher en caisse: 0642459781
 
-*   [Michèle](/ep/profile/w7VCDWJbMe6) : tu confirmes ?
-*   Oui (06 37 39 26 53)
-*   [Michèle](/ep/profile/w7VCDWJbMe6) : y a t'il un passage à Guingamp dans l'après-midi demain ou est-ce envisageable ? 
+#### Nourriture et boissons
 
-<u>Nourriture et boissons</u>
+*   6 â‚¬ / jour / pers. me semble un minimum viable pour la nourriture
+*   Voir 7 euros mais je ne voudrais pas que le prix empÃªche de venir.
 
-*   6 ¬ / jour / pers. me semble un minimum viable pour la nourriture
+#### Gestion du budget du camp (en Bretagne)
 
-*   Voir 7 euros mais je ne voudrais pas que le prix empêche de venir.
+[ICI](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) 
+* La mer peut nous fournir innombrables ressources (coques, moules, poisson...)
+* Penser Ã  la facture des fluides (Ã©lectricitÃ©, eau..)
+* Sondage concernant les boissons pour le sÃ©jour : [ICI](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform) 
+* Sondage sur les contraintes alimentaires des participants :[ ICI](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) 
 
-*   Gestion du budget du camp (en Bretagne) :  [ICI](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) 
-*   La mer peut nous fournir innombrables ressources (coques, moules, poisson...)
-
-*   Penser à la facture des fluides (électricité, eau..)
-
-*   Sondage concernant les boissons pour le séjour : [ICI](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform) 
-*   Sondage sur les contraintes alimentaires des participants :[ ICI](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) 
-
-<u>Carte prévisionnelle du barman</u>
+#### Carte du barman
 
 *   Cocktails sans alcools
+ *   parfum de femme
+ *   virgin mojito
+ *   bora bora
+ *   abricot frappÃ© (note: cerise remplacÃ© par grenadine)
 
-        *   parfum de femme
-    *   virgin mojito
-    *   bora bora
-    *   abricot frappé (note: cerise remplacé par grenadine)
-
-<u>Besoins en matériel</u>
+#### Besoins en matÃ©riel
 
 *   Musique / son - j'apporte une bonne enceinte active (TW) 
-*   Barbecue (nota : d'habitude on fait le feu dans les cailloux sur la grève)
+*   Barbecue (nota : d'habitude on fait le feu dans les cailloux sur la grÃ¨ve)
 *   Charbon (TW)
 *   Rallonges et multi-prises - j'en apporte 2 (TW)
-*   <s>couverts et plats , planches à découper... :</s> matériel suffisant 
+*   <s>couverts et plats , planches Ã  dÃ©couper... :</s> matÃ©riel suffisant 
 *   tente et matelas
-*   Cordages, bâches, voiles, hamacs
-*   Plans et estimation des matériaux pour WC sec (récipients fournis, cabane et composteur à construire)
+*   Cordages, bÃ¢ches, voiles, hamacs
+*   Plans et estimation des matÃ©riaux pour WC sec (rÃ©cipients fournis, cabane et composteur Ã  construire)
 
-<undefined><li>**<u>Matériel de travail</u>**</li></undefined>
+### MatÃ©riel de travail
 
 *   Tente, duvet, matelas / participant si vous voulez dormir 
-*   Vis inox et visseuse pour construction toilette sèche
-*   Prévoir un accès internet
+*   Vis inox et visseuse pour construction toilette sÃ¨che
+*   PrÃ©voir un accÃ¨s internet
 *   Quelques arduino, Pi
 *   Outils de bricolage 
-*   Fer à souder, multimètre, 
-*   Cannes à pêche
+*   Fer Ã  souder, multimÃ¨tre, 
+*   Cannes Ã  pÃªche
 
-Est-ce qu'une 1 ou 2 grandes bâches blanches à tendre entre des arbres pour se faire de l'ombre seraient intéressantes ? Il y en a des "plastifiées" dans la ressourcerie de mon coin !
-<undefined><li>**<u>J'apporte sur place</u>**</li></undefined>
+##Â Conversation(s)
 
-*   [Aurélien](/ep/profile/AeDY8fvsAh0) : 
-*    Alcool
-*    Sons
-*    MédiaLab : Appareil photo +  Matériel sons pour interview 
+### [Xavier](/ep/profile/mG5YIQbhX4t)
 
-**2.2 SummerCamp @ La M[Y]NE (15-20/08)**
+*   Pourrions envisager **un Summer Ã  4 forces vives**? : Explore, Cellabz, La Paillasse SaÃ´ne, Le Biome (...) ? Ouvert Ã  des participants bienveillants et qui font par eux-mÃªmes. Une semaine ou deux. 
 
-<undefined><li>**<u>Participant.e.s</u>**</li></undefined>
+###  [Nicolas](/ep/profile/zWvYBZ895oJ)
 
-*   Nicolas L. (17-20/08) : sur place
-*   Rieul T. (17-20/08) : sur place
-*   Emmanuel L (15-...) : 
-*   ...
+*   Tout l'Ã©tÃ©, soyons fous :) Avec la rÃ¨gle Ã©lÃ©mentaire qui consiste Ã  partager **quelques temps de rendus / feed-backs**. Je pense que le fil rouge reste et demeure (pour Cellabz) le soutien au dÃ©ploiement de projets, la transmission entre pairs, le partage de bonnes pratiques.
 
-<undefined><li><u>Thématique.s</u></li></undefined>
+*   Deux semaines, c'est dÃ©jÃ  beaucoup. L'idÃ©e est de l'Ã©tendre progressivement Ã  toute l'annÃ©e...
 
-*   L'objectif est de mettre en cohérence les [projets](/98hpmej7KYH) quis seront présentés à la Biennale 2017.
-*   Monter en pratique sur la documentation (pour ma part pour CELLABZ, DAISEE, DM1TL).
+### [Rieul](/ep/profile/oxxrkxoiPzW)
 
-<undefined><li>**<u>Logistique</u>**</li></undefined>
+*   Les Summer Camp on aime bien ! Une idÃ©e qui me vient : un Spring Camp en prÃ©ambule qui permet de commencer Ã  travailler sur une **thÃ©matique fil rouge** que l'on continuerait tout au long de diffÃ©rents X-Camps. Pardon, l'idÃ©e derriÃ¨re : un camp par saison organisÃ© par "une communautÃ©" diffÃ©rente et Ã  un endroit diffÃ©rent Ã  chaque fois. Le fil rouge: DAO (Decentralized Autonomous Organisation). La vocation : **travailler sur des briques rÃ©pondant Ã  des besoins locaux et connectÃ©es entre elles**. L'ambition : des embryons, voire plus, d'Ethereum Homes (ou Projects) un peu partout en application sur diffÃ©rentes problÃ©matiques. Le rendu du fil rouge : des DAO interconnectÃ©es aux 4 coins de la France. 
 
-## 3- SummerCamps
+*   C'est une idÃ©e et pour changer c'est Ã  mettre en confrontation avec nos rÃ©alitÃ©s de disponibilitÃ© et autres et de pertinence en fonction de ce que cherche Ã  faire. Et aussi Ã  mettre en regard du fait que j'ai de plus en plus l'impression de parler de ce que je ne maitrise pas assez, encore... Mais c'est une autre histoire. 
 
-*   Nantes SummerLab : [pad des ateliers](http://etherpad.pingbase.net/summerlab-ateliers)
-*   HaxoGreen : [](https://blog.haxogreen.lu)https://blog.haxogreen.lu
+*   Si, si. C'est juste. C'est l'esprit mÃªme d'Ethereum de dÃ©multiplier ces dÃ©marches. 
 
-## 4- Conversation(s)
-<undefined><li>**[Xavier](/ep/profile/mG5YIQbhX4t)**</li></undefined>
+*   En continuitÃ© du point prÃ©cÃ©dent: curieux, trÃ¨s curieux, de** l'hybridation biomimÃ©tisme / blockchain** (je ne sais pas du tout de quoi de je parle, justement je suis curieux de savoir ce qu'on peut en tirer). J'arrÃªte avec Blockchain / Ethereum Ã§a va paraitre un peu monomaniaque (surtout que vu mes dispo en ce moment j'en parle plus que je n'en fais). 
 
-*   Pourrions envisager **un Summer à 4 forces vives**? : Explore, Cellabz, La Paillasse Saône, Le Biome (...) ? Ouvert à des participants bienveillants et qui font par eux-mêmes. Une semaine ou deux. 
+*   Donc, sinon Ã§a peut Ãªtre un camp d'accÃ©lÃ©ration de projets sur lesquels vous travaillez dans le cadre du biome ou bien... voir comment articuler vos projets et ceux des autres communautÃ©s / acteurs dans la boucle. Mon idÃ©e: le biomimÃ©stime est une discipline transversale et les projets gagneraient Ã  profiter de vos savoirs / savoirs-faire et actiecosysteme definitionvitÃ©s pour l'implÃ©mentation de concepts, systÃ¨mes ou Ã©lÃ©ments biomimÃ©tiques. Est ce que Ã§a ne serait pas l'occasion de croiser et co-produire en travaillant sur les synergies entre projets ?
 
-<undefined><li>**[Nicolas](/ep/profile/zWvYBZ895oJ)**</li></undefined>
+*   Avancer / Adapter / Recontextualiser le projet Plantoid au prisme du biomimÃ©tisme (c'est beau Ã§a... mais est ce que Ã§a veut dire quelque chose Ã  vous de me le dire).  
 
-*   Tout l'été, soyons fous :) Avec la règle élémentaire qui consiste à partager **quelques temps de rendus / feed-backs**. Je pense que le fil rouge reste et demeure (pour Cellabz) le soutien au déploiement de projets, la transmission entre pairs, le partage de bonnes pratiques.
+*   1 semaine : faisable, 2 semaines plus tendu (Ã§a se rapprocherait d'une mini-rÃ©sidence).
 
-*   Deux semaines, c'est déjà beaucoup. L'idée est de l'étendre progressivement à toute l'année...
+*   Une semaine bien organisÃ©e avec une seconde collÃ©e de jours permettant Ã  des nomades de passer s'immerger dans l'ambiance hybride et le camp. Je peux tenter de me rendre dispo.
+*   C'est CON-SI-DÃ‰-RABLE 1 semaine. 3 jours est la durÃ©e idÃ©ale pour soutenir un dÃ©veloppement de projet(s) (sur un site donnÃ©), avec 1-2 jours avant et aprÃ¨s (pour faciliter l'amorce et la post-prod). C'est l'un des grands enseignement du 'MYNEcamp' (relativement efficient, avec Philippe G.).
+*   Je comprends la contraintes de la semaine et surtout je sais la dÃ©pense physique et intellectuelle. 
 
-<undefined><li>**[Rieul](/ep/profile/oxxrkxoiPzW) **</li></undefined>
+### [Emmanuel](/ep/profile/o7v3QAfxz4L)
 
-*   Les Summer Camp on aime bien ! Une idée qui me vient : un Spring Camp en préambule qui permet de commencer à travailler sur une **thématique fil rouge** que l'on continuerait tout au long de différents X-Camps. Pardon, l'idée derrière : un camp par saison organisé par "une communauté" différente et à un endroit différent à chaque fois. Le fil rouge: DAO (Decentralized Autonomous Organisation). La vocation : **travailler sur des briques répondant à des besoins locaux et connectées entre elles**. L'ambition : des embryons, voire plus, d'Ethereum Homes (ou Projects) un peu partout en application sur différentes problématiques. Le rendu du fil rouge : des DAO interconnectées aux 4 coins de la France. 
+*   TrÃ¨s curieux de tester un camp sur du temps long pour booster les projets ocÃ©aniques et les pratiques de documentation.
 
-*   C'est une idée et pour changer c'est à mettre en confrontation avec nos réalités de disponibilité et autres et de pertinence en fonction de ce que cherche à faire. Et aussi à mettre en regard du fait que j'ai de plus en plus l'impression de parler de ce que je ne maitrise pas assez, encore... Mais c'est une autre histoire. 
+*   Envie de mÃªler une **accÃ©lÃ©ration efficace** des projets Ã  un esprit de **convivialitÃ© **et de **dÃ©couverte**. (testÃ© sur l'ExploreCamp les 16-17 avril Ã  Concarneau avec projets / Ã©tudiants).
 
-*   Si, si. C'est juste. C'est l'esprit même d'Ethereum de démultiplier ces démarches. 
-
-*   En continuité du point précédent: curieux, très curieux, de** l'hybridation biomimétisme / blockchain** (je ne sais pas du tout de quoi de je parle, justement je suis curieux de savoir ce qu'on peut en tirer). J'arrête avec Blockchain / Ethereum ça va paraitre un peu monomaniaque (surtout que vu mes dispo en ce moment j'en parle plus que je n'en fais). 
-
-*   Donc, sinon ça peut être un camp d'accélération de projets sur lesquels vous travaillez dans le cadre du biome ou bien... voir comment articuler vos projets et ceux des autres communautés / acteurs dans la boucle. Mon idée: le biomiméstime est une discipline transversale et les projets gagneraient à profiter de vos savoirs / savoirs-faire et actiecosysteme definitionvités pour l'implémentation de concepts, systèmes ou éléments biomimétiques. Est ce que ça ne serait pas l'occasion de croiser et co-produire en travaillant sur les synergies entre projets ?
-
-*   Avancer / Adapter / Recontextualiser le projet Plantoid au prisme du biomimétisme (c'est beau ça... mais est ce que ça veut dire quelque chose à vous de me le dire).  
-
-*   1 semaine : faisable, 2 semaines plus tendu (ça se rapprocherait d'une mini-résidence).
-
-*   Une semaine bien organisée avec une seconde collée de jours permettant à des nomades de passer s'immerger dans l'ambiance hybride et le camp. Je peux tenter de me rendre dispo.
-*   C'est CON-SI-DÉ-RABLE 1 semaine. 3 jours est la durée idéale pour soutenir un développement de projet(s) (sur un site donné), avec 1-2 jours avant et après (pour faciliter l'amorce et la post-prod). C'est l'un des grands enseignement du 'MYNEcamp' (relativement efficient, avec Philippe G.).
-*   Je comprends la contraintes de la semaine et surtout je sais la dépense physique et intellectuelle. 
-
-<undefined><li>**[Emmanuel](/ep/profile/o7v3QAfxz4L)**</li></undefined>
-
-*   Très curieux de tester un camp sur du temps long pour booster les projets océaniques et les pratiques de documentation.
-
-*   Envie de mêler une **accélération efficace** des projets à un esprit de **convivialité **et de **découverte**. (testé sur l'ExploreCamp les 16-17 avril à Concarneau avec projets / étudiants).
-
-<undefined><li>**[Thomas](/ep/profile/wv1CT6omeWh)**</li></undefined>
+### [Thomas](/ep/profile/wv1CT6omeWh)
 
 *   Partant pour ces 10 jours, et rester au jus pour l'organisation. 
 
-*   Très intéressé pour se côtoyer en ambiance immersive (et festive). Pour taffer avec Rieul, Nicolas, Xavier et Yoann que je connais déjà, et rencontrer les autres. 
+*   TrÃ¨s intÃ©ressÃ© pour se cÃ´toyer en ambiance immersive (et festive). Pour taffer avec Rieul, Nicolas, Xavier et Yoann que je connais dÃ©jÃ , et rencontrer les autres. 
 
 *   Caroline (ma copine) viendrait aussi, pour bidouiller autour de la couture. 
 
-*   Il y a un slack pour échanger sur les enjeux pratiques d'organisation ?
+*   Il y a un slack pour Ã©changer sur les enjeux pratiques d'organisation ?
 
 *   [](https://wearebiomers.slack.com/messages/community/)[https://wearebiomers.slack.com/messages/community/](https://wearebiomers.slack.com/messages/community/) 
 
-<undefined><li>**[François](/ep/profile/ufAvAUgnKnx)**</li></undefined>
+### [FranÃ§ois](/ep/profile/ufAvAUgnKnx)
 
-*   Partant pour ces 10 jours et prendre part à l'organisation. 
+*   Partant pour ces 10 jours et prendre part Ã  l'organisation. 
 
-*   Je viendrais sûrement en voiture, pour pouvoir rapporter du matériel et surtout je prévois de ramener une partie de mon bar perso, pour vous concoter des cocktails le soir, et vous faire découvrir quelques bonnes bouteilles
+*   Je viendrais sÃ»rement en voiture, pour pouvoir rapporter du matÃ©riel et surtout je prÃ©vois de ramener une partie de mon bar perso, pour vous concoter des cocktails le soir, et vous faire dÃ©couvrir quelques bonnes bouteilles
 
-*   Partant pour aider à la construction des toilettes sèches (j'ai déjà travaillé avec des palettes), et éventuellement d'autres meubles
+*   Partant pour aider Ã  la construction des toilettes sÃ¨ches (j'ai dÃ©jÃ  travaillÃ© avec des palettes), et Ã©ventuellement d'autres meubles
 
-*   Pas encore de projet de vraiment prévu, un peu d'électronique me branche bien (je ramènerais des composants), et partager mes connaissances, notamment sur Git, Jenkins, et le développement de manière général
+*   Pas encore de projet de vraiment prÃ©vu, un peu d'Ã©lectronique me branche bien (je ramÃ¨nerais des composants), et partager mes connaissances, notamment sur Git, Jenkins, et le dÃ©veloppement de maniÃ¨re gÃ©nÃ©ral
 
-*   Ayant vu que Caroline fait de la couture, on pourrait peut-être essayer de faire un truc autour des habits. J'ai un KeyGlove en cours, et pas mal de composants dédié wearable, avec du fil conducteur.
+*   Ayant vu que Caroline fait de la couture, on pourrait peut-Ãªtre essayer de faire un truc autour des habits. J'ai un KeyGlove en cours, et pas mal de composants dÃ©diÃ© wearable, avec du fil conducteur.
 
-<undefined><li>**<u>Michele</u>**</li></undefined>
+### Michele
 
-*   Pour les toilettes sèches, j'imagine la version "bioring" vue à St Etienne au workshop tiny tilios camp : le compost doit pouvoir alimenter des plantes à croissance rapide, lesquelles serviront à faire un autre compost pour améliorer la production de légumes. Pourquoi pas une construction végétale vivante ?
-*   Je peux apporter des légumes, de la bière, fromages, saucisson, du pain bio local d'à côté de Rennes (pas cher du tout, direct producteurs)
-*   je suis pour quelques moments de pêche à pied, récolte et cuisine de plantes sauvages
+*   Pour les toilettes sÃ¨ches, j'imagine la version "bioring" vue Ã  St Etienne au workshop tiny tilios camp : le compost doit pouvoir alimenter des plantes Ã  croissance rapide, lesquelles serviront Ã  faire un autre compost pour amÃ©liorer la production de lÃ©gumes. Pourquoi pas une construction vÃ©gÃ©tale vivante ?
+*   Je peux apporter des lÃ©gumes, de la biÃ¨re, fromages, saucisson, du pain bio local d'Ã  cÃ´tÃ© de Rennes (pas cher du tout, direct producteurs)
+*   je suis pour quelques moments de pÃªche Ã  pied, rÃ©colte et cuisine de plantes sauvages
 
-<undefined><li>**[Maxime](/ep/profile/rMlZfLzndM3)**</li></undefined>
+### [Maxime](/ep/profile/rMlZfLzndM3)
 
-*   Sans-doute à Saint-Malo avant le 03/08. On peut se retrouver et faire 150 km ensemble !
+*   Sans-doute Ã  Saint-Malo avant le 03/08. On peut se retrouver et faire 150 km ensemble !
 
-*   Chaud pour une journée pêche !
+*   Chaud pour une journÃ©e pÃªche !
 
-*   J'ai lancé la [feuille de budget où centraliser les recettes/dépenses du camp](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) . J'ai essayé de rester simple. Je suis ok pour me charger de sa maintenance pour les 2 mois à venir. 
+*   J'ai lancÃ© la [feuille de budget oÃ¹ centraliser les recettes/dÃ©penses du camp](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) . J'ai essayÃ© de rester simple. Je suis ok pour me charger de sa maintenance pour les 2 mois Ã  venir. 
 
-<undefined><li>**[Emmanuel](/ep/profile/y22IvSJLnor)**</li></undefined>
+### [Emmanuel](/ep/profile/y22IvSJLnor)
 
-*   Je viendrai pour réfléchir sur un/ des moyens de rassembler des données & de la documentation de projets sur le thème de la micro-production d'énergie (plutôt solaire / éolien / humaine mais aussi intéressé par la partie biologique)
+*   Je viendrai pour rÃ©flÃ©chir sur un/ des moyens de rassembler des donnÃ©es & de la documentation de projets sur le thÃ¨me de la micro-production d'Ã©nergie (plutÃ´t solaire / Ã©olien / humaine mais aussi intÃ©ressÃ© par la partie biologique)
 
-*   Pour OSCEdays 2016, j'étais [à Bobigny](https://oscedays.org/paris-2016. ).J'ai échangé dans ce cadre sur les projets de micro-éoliennes coulées en aluminium de récupération et sur des fonderies d'aluminium fonctionnant avec des chûtes de bois ou charbon. Je peux partager !
+*   Pour OSCEdays 2016, j'Ã©tais [Ã  Bobigny](https://oscedays.org/paris-2016. ).J'ai Ã©changÃ© dans ce cadre sur les projets de micro-Ã©oliennes coulÃ©es en aluminium de rÃ©cupÃ©ration et sur des fonderies d'aluminium fonctionnant avec des chÃ»tes de bois ou charbon. Je peux partager !
 
-*   Prêt à participer à d'autres projets liés à l'énergie comme Algae. J'y connais pas grand chose en algues mais je peux faire de la plomberie, de la mesure (via des cartes / capteurs Arduino, Raspberry Pi...) ou apporter de la connaissance en physique.
+*   PrÃªt Ã  participer Ã  d'autres projets liÃ©s Ã  l'Ã©nergie comme Algae. J'y connais pas grand chose en algues mais je peux faire de la plomberie, de la mesure (via des cartes / capteurs Arduino, Raspberry Pi...) ou apporter de la connaissance en physique.
 
-<undefined><li>**[Yohann](/ep/profile/njUv6VOEAeM)**</li></undefined>
+### [Yohann](/ep/profile/njUv6VOEAeM)
 
-*   Très intéressé par ces futurs rencontres et échanges. Xavier m'a donné envie de regarder de près Jekyll et github.io (à la base je suis développeur web).
+*   TrÃ¨s intÃ©ressÃ© par ces futurs rencontres et Ã©changes. Xavier m'a donnÃ© envie de regarder de prÃ¨s Jekyll et github.io (Ã  la base je suis dÃ©veloppeur web).
 
-<undefined><li>**[Aurélie](/ep/profile/BVFNkeXzYTD)**</li></undefined>
+### [AurÃ©lie](/ep/profile/BVFNkeXzYTD)
 
-*   Très curieuse de vous rejoindre dans ma Bretagne Natale (j'ai grandi à Morlaix dans le Finistère). J'apprends à coder le javascript avec Stéphane à Montpellier. Je mets les mains doucement sur Github pour contribuer au projet Multibao. Je connais [Thomas](/ep/profile/wv1CT6omeWh) de la formation de gestion de projet de rupture à Montpellier.  et j'ai bien hâte de tous vous rencontrer.
+*   TrÃ¨s curieuse de vous rejoindre dans ma Bretagne Natale (j'ai grandi Ã  Morlaix dans le FinistÃ¨re). J'apprends Ã  coder le javascript avec StÃ©phane Ã  Montpellier. Je mets les mains doucement sur Github pour contribuer au projet Multibao. Je connais [Thomas](/ep/profile/wv1CT6omeWh) de la formation de gestion de projet de rupture Ã  Montpellier.  et j'ai bien hÃ¢te de tous vous rencontrer.
