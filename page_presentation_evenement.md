@@ -4,9 +4,9 @@
 
 *   Photo de Nicolas Loubet en licence CC-BY-NC-SA (prise sur le MYNEcamp 2015). Source : [Pinterest](https://fr.pinterest.com/pin/188729040611270601/). 
 
-Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors, du 15 au 21/08 à la M[Y]NE - co-conçu par / pour Cellabz, Explore , Multibao, M[Y]NE / LPS, DAISEE, Le Biome, labOSe, Inventaire.io...
+Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors. Co-conçu par / pour Cellabz, Explore , Multibao, M[Y]NE / LPS, DAISEE, Le Biome, labOSe, Inventaire.io...
 
-## 0- Participant.e.s
+## Participant.e.s
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1468679556055_hackpad.com_LxNyipOhh0I_p.266912_1468397878219_newproject_1_original(8).jpg)
 
@@ -105,9 +105,7 @@ Carnet de bord du '[SummerCamp](https://github.com/LeBiome/summer_camp_2016/blob
 <li>
 </li></ul class="comment">
 
-## 1- Actions en cours
-
-#**KerBors**
+## Organisation
 
 *   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prévues pour le séjour. 
 *   Remplir le [sondage](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) sur les contraintes alimentaires des participant.e.s.
@@ -120,11 +118,9 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.594514_1469543819719_CoatLannec-carte1.png)
 
-## 2- Préparation
-
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.266912_1470046217892_collage kerbors.jpg)
 
-### Thématiques
+### Thématiques à explorer
 
 *   Toilettes sèches
 *   Algae & energy
