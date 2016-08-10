@@ -1,12 +1,12 @@
 ---
 title: Découverte du travail de Maxime Lathuilière sur le marketing éthique
 description: Toxicité du marketing et alternatives éthiques
-image_url: 
+image_url: https://github.com/multibao/contributions/blob/master/media/Maxime-Lathuiliere.jpg?raw=true
 ---
 
 # Découverte du travail de Maxime Lathuilière sur le marketing éthique
 
-**Ajouter photo Maxime lors du Summercamp**
+![Maxime](https://github.com/multibao/contributions/blob/master/media/Maxime-Lathuiliere.jpg?raw=true)
 
 > Maxime (http://maxlath.eu) se définit comme un humain de 27 ans essayant de faire son mieux pour traverser la vie avec joie et liberté, tout en contribuant à la transition vers une ère post-consummériste. Dans ce process, il a un focus particulier sur la toxicité de la propagande commerciale et ce qui viendra pour la remplacer. 
 
