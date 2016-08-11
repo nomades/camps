@@ -1,5 +1,7 @@
 #Réparation d'un OpenROV
 
+Article originellement publié sur [www.hack-your-brain.com][9], je le republie ici pour partager l'expérience aux autres participants du SummerCamp et toute autre personne qui pourrait être intéressée.
+
 _There is a summary in English at the end in case you just want to repair your ROV and be on your way._
 
 ![Face avant du ROV][1] 
@@ -69,3 +71,4 @@ When it's done, put the BeagleBone back on, test that everything works correctly
 [6]: reparation_openrov/topside-interface-board.jpg
 [7]: reparation_openrov/Tenda-HomePlug.jpg
 [8]: reparation_openrov/bouton-tenda-ROV.jpg
+[9]: http://www.hack-your-brain.com/reparation-dun-openrov/
