@@ -1,4 +1,14 @@
-#Réparation d'un OpenROV
+---
+title: Réparation d'un drône sous-marin (OpenROV)
+description: Documentation pour réparer un OpenROV, issue du site de François (hack-your-brain.com) en explications et images.
+image_url: https://github.com/multibao/contributions/blob/master/media/ROV-complet-face-meta.jpg?raw=true
+---
+
+<header>
+<link rel="canonical" href:"www.hack-your-brain.com" />
+</header>
+
+# Réparation d'un OpenROV
 
 Article originellement publié sur [www.hack-your-brain.com][9], je le republie ici pour partager l'expérience aux autres participants du SummerCamp et toute autre personne qui pourrait être intéressée.
 
