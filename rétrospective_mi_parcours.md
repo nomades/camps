@@ -1,19 +1,25 @@
-Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html)
-Objectif : Retranscrire le déroulé de la rétrospective mi-parcours réalisée dans le cadre du SummerCamp2016 à Kerbors en Bretagne. 
+Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html). L'approche UT7 provient elle même d'un format inventé par Virginia Satir, une psychotérapeute familiale, format qu’elle appelle en anglais « Temperature Reading ».
 
-La session a pour but de poser un espace de partage au sein d'un groupe. Une personne prend le rôle de facilitateur pour guider le groupe dans les étapes. Le facilitateur participe lui-même à la session. Son rôle est d'introduire les différentes étapes au groupe et de les inviter à partager.
+**Objectif** : Retranscrire le déroulé de la rétrospective mi-parcours réalisée dans le cadre du SummerCamp2016 à Kerbors en Bretagne. 
+
+La session pose un espace de partage au sein d'un groupe. Un facilitateur provenant du groupe est nécessaire pour guider la séance. Le facilitateur participe lui-même à la session.
 
 ## Déroulement
-Ci-dessous le déroulé des 5 étapes. Le déroulé de la session se fait dans l'ordre. Il est possible de proposer un partage à tout moment de la session associé aux étapes précédentes.
-Dans le cadre du Summer Camp, l'intention était de partager en groupe avant le départ de deux personnes. 
-Une rétrospective a de la  valeur a tout moment au sein d'une expérience de groupe. Elle peut être décidée lors de départs, d'arrivées de certaines personnes, tout comme à mi-parcours ou à la fin d'un projet de groupe. 
+* Chacun est libre de participer et de s'exprimer. 
+* La rétrospective n'est pas un débat. Lorsqu'une personne partage un ressenti, le groupe écoute attentivement sans chercher à rebondir.
+* Le déroulé de la session se fait dans l'ordre des 5 étapes définies ci-dessous.
+* Chaque nouvelle étape ne met pas fin aux étapes précédentes.
+
+Dans le cadre du SummerCamp à Kerbors, l'intention était de partager nos retours d'expériences en groupe avant le départ anticipé de deux personnes.
+
 ### Engager le groupe présent
-Dans le cadre du Summer Camp, la présence des 13 personnes a été assurée en annonçant au préalable l'heure et l'intention de la rétrospective. A l'annonce de la session par le facilitateur, nous nous sommes installés autour d'une table. Le facilitateur introduit l'intention et la premier partage avant de laisser chacun libre de partager selon ses ressentis et à son rythme. 
+Dans le cadre de l'expérience vécue à Kerbors, la présence des 13 personnes a été assurée en annonçant au préalable l'heure et l'intention de la rétrospective. A l'annonce de la session par le facilitateur, nous nous sommes installés autour d'une table. Le facilitateur nous a introduit la première étape de partage avant de laisser chacun libre de s'exprimer selon ses ressentis et à son rythme.
+
 ### S'adresser à une personne pour la remercier
-Cette étape consiste à exprimer une appréciation à une personne du groupe. C'est souvent un  moment vécu. La syntaxe utilisée peut être : "{Prénom}, j'ai apprécié/j'ai aimé"
+Cette étape consiste à exprimer nominativement une ou plusieurs appréciations. C'est souvent un  moment vécu dans le cadre du vécu collectif. La syntaxe utilisée peut être : "{Prénom}, j'ai apprécié/j'ai aimé"
 Par exemple :
+"Caroline, j'ai apprécié la justesse de tes propositions dans la répartition des tâches."
 "François, j'ai apprécié ta passion et ton investissement pour les cocktails chaque jour."
-"Caroline, j'ai apprécié la justesse de tes propositions dans la répartition des tâches.
 
 ### Exprimer ses frustrations au groupe et une action personnelle associée
 Suite aux appréciations, viens le partage de frustrations ressenties.
@@ -23,17 +29,25 @@ D'autre part, le facilitateur invite chacun à partager une action à prendre (m
 Par exemple : "J'ai des ressentiments face au sujet de l'argent non abordé. Je vais initier un atelier comptes cet après-midi."
 "Je suis frustrée de ne pas avoir répondu "oui" à la proposition de Thomas d'aller naviguer. La prochaine fois, je me poserais moins de question et dirais "oui".
 
-A noter qu'il est possible de revenir sur des appréciations à tout moment. 
+A noter qu'il est possible de revenir à l'étape des appréciations à tout moment. 
+Par exemple :
+Aurélie partage  "Je n'ai pas aimé manger à 23h hier soir". 
+Xavier rebondit "Celà me fait penser que j'ai apprécié, Emmanuel, quand tu as pris l'initiative de faire la cuisine."
 
 ### Partager des rumeurs et mystères
-Les rumeurs et mystères sont des informations ou faits non partagées en groupe. Ces informations nouvelles peuvent être partagées à ce stade du déroulé. 
-Par exemple : "Il semblerait qu'il y ait un projet de "winter camp" à la montagne.
+Les rumeurs et mystères sont des informations ou faits non partagés au groupe. Ces informations nouvelles sont annoncées.
+Par exemple : "Il semblerait qu'il y ait un projet de "winter camp" à la montagne."
 
-### Terminer par l'expression de voeux
-Pour terminer la rétrospective,  le facilitateur invite chacun à partager des voeux, ou envies. Chacun peut exprimer ce qu'il aimerait réaliser, voir arriver avec le groupe présent, ou tout désir pour la suite quel que soit le niveau d'initiation ou de faisabilité.
-Par exemple : "J'ai envie de créer une fiche détaillant les étapes de rétrospective dans le dossier projet du Summper Camp."
-"J'ai envie de rythmer ma vie avec plus de semaines immersives comme celle-là."
+### Terminer la séance par l'expression de voeux
+Le facilitateur invite les membres du groupe à partager des voeux, ou envies.
+Chacun peut exprimer ce qu'il aimerait réaliser, voir arriver avec le groupe présent, ou tout désir pour la suite quel que soit le niveau de faisabilité.
+Par exemple : "J'ai envie de créer une fiche détaillant les étapes de cette rétrospective dans le dossier projet du SummperCamp à Kerbors."
+"J'ai envie de rythmer ma vie avec plus de semaines immersives comme celles-là."
 
-Le facilitateur referme la rétrospective quand il sent que chacun à exprimer ses voeux, rumeurs, frustrations et appréciations à ce stade d'avancement du projet de groupe.
+Le facilitateur remercie le groupe pour signifier la fin de la rétrospective quand il sent que l'ensemble des voeux, rumeurs, frustrations et appréciations ont été exprimés à ce stade d'avancement du projet de groupe.
 Son rôle est d'être explicitement en accord avec le groupe pour refermer la session.
+
+## Petits conseils
+
+Une rétrospective a de la valeur à différents stades d'avancement d'un projet.  Elle peut être décidée lors de départs, d'arrivées de certaines personnes, tout comme à mi-parcours ou à la fin d'un projet de groupe. 
 
