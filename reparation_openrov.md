@@ -17,7 +17,7 @@ _There is a summary in English at the end in case you just want to repair your R
 ![Face avant du ROV][1] 
 
 Actuellement au SummerCamp en Bretagne, Manu a ramené un [OpenROV][2] qui ne marchait plus, à réparer.
-C’était pas gagné, des Makers de Pontivy c’étaient déjà penché dessus pendant 2 jours sans arriver à trouver la cause de la panne.
+C’était pas gagné, des Makers de Pontivy c’étaient déjà penché dessus pendant 2 jours sans arriver à trouver la cause de la panne. ( [Historique des Tests decet Open ROV](https://explore.hackpad.com/OceanisOpen-Tests-et-amlioration-de-lOpenROV-Explore-p4Y4dhu0uVt)
 L’OpenROV c’est quoi ? C’est un robot d’exploration sous-marin open-source à bas coût.
 
 ## Les symptômes de la panne 
