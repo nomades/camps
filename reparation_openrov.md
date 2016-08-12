@@ -5,7 +5,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ROV-compl
 ---
 
 <header>
-<link rel="canonical" href:"www.hack-your-brain.com" />
+<link rel="canonical" href:"www.hack-your-brain.com/reparation-dun-openrov/" />
 </header>
 
 # Réparation d'un OpenROV
