@@ -4,6 +4,8 @@ Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retr
 
 La session pose un espace de partage au sein d'un groupe. Un facilitateur provenant du groupe est nécessaire pour guider la séance. Le facilitateur participe lui-même à la session.
 
+![le site du Summer Camp](http://movilab.org/images/7/7a/SummerCamp2016Kerbors.jpeg)
+
 ## Déroulement
 * Chacun est libre de participer et de s'exprimer. 
 * La rétrospective n'est pas un débat. Lorsqu'une personne partage un ressenti, le groupe écoute attentivement sans chercher à rebondir.
@@ -49,5 +51,4 @@ Son rôle est d'être explicitement en accord avec le groupe pour refermer la se
 
 ## Petits conseils
 
-Une rétrospective a de la valeur à différents stades d'avancement d'un projet.  Elle peut être décidée lors de départs, d'arrivées de certaines personnes, tout comme à mi-parcours ou à la fin d'un projet de groupe. 
-
+Une rétrospective a de la valeur à différents stades d'avancement d'un projet.  Elle peut être décidée lors de départs, d'arrivées de certaines personnes, tout comme à mi-parcours ou à la fin d'un projet de groupe.
