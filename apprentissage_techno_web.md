@@ -15,7 +15,7 @@ Ce test/exercice est inspiré d'un jeu pour enfant en colonie de vacances ([Cf l
 
 Le «test Fizz - Buzz " est souent utilisé lorsd'entretien d'emploi, il est conçu pour aider à filtrer le 99,5% des candidats à la programmation. Le cahier des charges de l' attribution de programmation est le suivant:
 
-> " Ecrire un programme qui imprime les numéros de 1 à 100. Mais pour des multiples de 3 print" Fizz " au lieu du numéro et pour les multiples de 5 print" Buzz " . Pour les nombres qui sont des multiples de deux trois et cinq print" FizzBuzz " . "
+> " Ecrire un programme qui imprime les numéros de 1 à 100. Mais pour des multiples de 3 print" Fizz " au lieu du numéro et pour les multiples de 5 print" Buzz " . Pour les nombres qui sont des multiples de 3 et 5 print" FizzBuzz " . "
 
 ## Lancer le Jeu
 
@@ -35,9 +35,34 @@ Challenge annoncé à voix haute : **Le but est d'écrire un tel programme en mo
 Pour les multiples de 5, il faudra remplacer le nombre par Buzz.
 Pour les multiples et 3 et de 5, il faudra remplacer le nombre par FizzBuzz.
 
+Cela donne
+
+> // Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”
+
+
 Cet exercice peut être perçu comme utile pour estimer les programmeurs étant capable de penser par eux-mêmes face à ceux ayant une tendance copier-coller la solution d'un autre.
 
-# Ressources
+## Laisser les participants penser par-eux mêmes
+
+
+## Un exemple de solution
+
+> for (var number = 1; number <100 ; number++) {
+    if (number % 3 === 0 && i % 5 === 0) {
+        console.log("FizzBuzz");
+    }
+    else if (number % 5 === 0) {
+        console.log("Buzz");
+    }
+    else if (i % 3 === 0) {
+        console.log("Fizz");
+    }
+    else {
+        console.log(number);
+    }
+}
+
+# Ressources pour progresser
 
 *  Twenty Ways to FizzBuzz
 [An exercise in Javascript](http://ditam.github.io/posts/fizzbuzz/)
