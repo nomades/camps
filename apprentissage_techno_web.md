@@ -47,20 +47,33 @@ Cet exercice peut être perçu comme utile pour estimer les programmeurs étant 
 
 ## Un exemple de solution
 
-> for (var number = 1; number <100 ; number++) {
-    if (number % 3 === 0 && i % 5 === 0) {
-        console.log("FizzBuzz");
+```js
+function fizzbuzz (number) {
+    if (number % 3 === 0 && number % 5 === 0) {
+        console.log('FizzBuzz')
     }
     else if (number % 5 === 0) {
-        console.log("Buzz");
+        console.log('Buzz')
     }
-    else if (i % 3 === 0) {
-        console.log("Fizz");
+    else if (number % 3 === 0) {
+        console.log('Fizz')
     }
     else {
-        console.log(number);
+        console.log(number)
     }
 }
+
+fizzbuzz(1)
+// => 1
+fizzbuzz(1)
+// => 2
+fizzbuzz(3)
+// => Fizz
+fizzbuzz(5)
+// => Buzz
+fizzbuzz(15)
+// => FizzBuzz
+```
 
 # Ressources pour progresser
 
