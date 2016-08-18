@@ -13,7 +13,7 @@ Ce test/exercice est inspiré d'un jeu pour enfant en colonie de vacances ([Cf l
 * [Fizz Buzz Test](http://c2.com/cgi/wiki?FizzBuzzTest) 
 * [Using FizzBuzz to Find Developers who Grok Coding](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 
-Le «test Fizz - Buzz " est souent utilisé lorsd'entretien d'emploi, il est conçu pour aider à filtrer le 99,5% des candidats à la programmation. Le cahier des charges de l' attribution de programmation est le suivant:
+Le "test Fizz - Buzz" est souent utilisé lors d'entretien d'emploi, il est conçu pour aider à filtrer des candidats à la programmation. Le cahier des charges de l' attribution de programmation est le suivant:
 
 > " Ecrire un programme qui imprime les numéros de 1 à 100. Mais pour des multiples de 3 print" Fizz " au lieu du numéro et pour les multiples de 5 print" Buzz " . Pour les nombres qui sont des multiples de 3 et 5 print" FizzBuzz " . "
 
@@ -38,6 +38,20 @@ Pour les multiples et 3 et de 5, il faudra remplacer le nombre par FizzBuzz.
 Cela donne
 
 > // Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”
+
+L'animateur de la séance rédige en expliquant la syntaxe :
+
+```js
+function fizzbuzz (number) {
+    if (number 3 === 0 && number 5 === 0) {
+        console.log('FizzBuzz')
+    }
+    
+```
+
+Puis  demande aux participants de prédire à vooix haute le résultat si ils rédigent un nombre
+
+Exemple : "Je pense que le printdera Fiiz si j'écris 33"
 
 
 Cet exercice peut être perçu comme utile pour estimer les programmeurs étant capable de penser par eux-mêmes face à ceux ayant une tendance copier-coller la solution d'un autre.
