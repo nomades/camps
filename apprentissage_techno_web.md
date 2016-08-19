@@ -57,8 +57,7 @@ Le participant rédige :
 
 ```js
 Fizzbuzz(33)
-// Le résultat qui s'affiche est alors :
-False
+// Le résultat qui s'affiche est alors : => False
 ```
 
 L'animateur invite alors les participants à se concerter sur la provenance de l'erreur
