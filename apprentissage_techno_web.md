@@ -126,3 +126,6 @@ _A NOTER_:
 [An exercise in Javascript](http://ditam.github.io/posts/fizzbuzz/)
 
 * [Ressources recommandées par la NodeSchool Lyon pour apprendre le JS](https://github.com/nodeschool/lyon/blob/master/learnjavascript.md)
+
+* Lancer un nouveau test convivial et ludique 
+![](https://framapic.org/i7ij85Nl24K3/etPtbrfu3xgf)
