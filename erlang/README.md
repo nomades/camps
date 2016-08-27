@@ -340,7 +340,98 @@ avons nous besoins?
 ```c
 
 ```
- 
+
+## Voyons grand!
+
+Erlang a  été prévu dès  son origine  pour fonctionner dans  un réseau
+décentralisé et maillé. Qu'est-ce que  ça veux dire? Simplement que la
+machine virtuelle peut s'interconnecté  à d'autres machines virtuelles
+et créé un réseau où tous les noeuds connectés se connaissent.
+
+```
+  ________ 	    ________
+ |	  |	   (   	    )
+ | noeud1 |-------( internet )	       	  
+ |________|  	   (________)	      	  
+	      	     |	    	      	  
+	      	     | 	    	      	  
+  ________     	     | 	       	      	  
+ |	  |	     |	 	      	  
+ | noeud2 |---+	     | 	       	       	  
+ |________|   |	    _|__________      	  
+	      |	   (		)     	  
+	      +---( réseau local )    	  
+  ________    |	   (____________)     	  
+ |     	  |   |			      
+ | noeud3 |---+			      
+ |________|			      
+				      
+				      
+```				      
+
+Ce schéma  montre qu'il est possible  d'interconnecté plusieurs noeuds
+au  travers   de  plusieurs  réseaux.  Ces   derniers  pourront  alors
+communiquer ensemble et  ainsi partager la charge ou  avoir des tâches
+spécifiques.
+
+Ce qui est probablement le plus  intéressant dans ce modèle, c'est que
+les structures  de données entre  les noeuds sont compatibles,  et que
+les méthodes  de communications entre  les noeuds ne changent  pas! Il
+donc possible de  communiquer simplement entre le noeud3  et le noeud1
+avec les commandes que nous avons vu avant!
+
+Encore mieux, Erlang intègre un système de RPC (Remote Procedure Call)
+très performant,  permettant d'exécuter n'importe quelle  tâche sur la
+totalité du réseau  interconnecté. Si vous avez un noeud  qui est sous
+linux et un autre sous windows, qu'un outil n'est présent que sur l'un
+ou  l'autre  système, Erlang  permet  d'y  avoir simplement  accès  en
+faisant abstration des données!
+
+Évidemment,  tout  n'est  pas  rose. Un  environnement  clusterisé  et
+distribué devrait être  sécurisé en amont et  en aval. Habituellement,
+dans un lieux connu. La sécurité  de connexion est enfantine mais fera
+l'affaire dans des petites structures  où les réseaux locaux suffisent
+le pluspart du temps.
+
+Les noeuds partagent simplement une  information: un cookie. Ce cookie
+est créé  par l'utilisateur ou  généré au  lancement du noeud.  Si les
+autres  noeuds  n'ont pas  le  même  cookie,  la connexion  est  alors
+impossible et le noeud reste isolé.
+
+Plus récemment,  depuis les dernières versions  d'Erlang, la connexion
+chiffrée entre  les noeuds  a été  améliorée et  simplifié, permettant
+d'utiliser des certificats pour les autorisations de connexions.
+
+Et si on  essayait de faire un petit cluster  rapidement, en local? Le
+petit script suivant  va vous permettre de lancer 3  noeuds qui seront
+interconnectés ensemble et ainsi de voir ce qui se passe d'un point de
+vue réseau.
+
+```sh
+
+```
+
+Lançons un processus  sur le noeud1. Ce  dernier doit-être enregistré,
+un  processus "anonyme"  (seulement avec  son  pid) ne  peux pas  être
+directement join simplement.
+
+```erlang
+
+MyProcess = fun() F ->
+  Hide = "my data!",
+  receive 
+    {Node, Pid, Message} ->
+      {Node, Pid } ! { received, {Node, Pid}, Hide, Message },
+	  F();
+	_ ->
+	  F()
+  end end.
+
+Pid = spawn(MyProcess).
+erlang:register(myprocess, Pid).
+
+```
+
 # Annexes
 
 ## Liens
