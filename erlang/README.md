@@ -306,5 +306,71 @@ sécurisant ce qu'il y a autour.
 
 ## Liens
 
+ * http://www.erlang.org/
+ * http://www.erlang-factory.com/
+
 ## Bibliographie
 
+### Introducing Erlang
+
+ * http://shop.oreilly.com/product/0636920025818.do
+ 
+Un  petit  livre bien  sympas  qui  fait  office de  référentiel.  Une
+personne qui connait déjà un peu Erlang s'y retrouvera mieux.
+ 
+### Learn You Some Erlang for Great Good
+
+ * http://learnyousomeerlang.com/
+ 
+Un apprentissage en profondeur  pour débutant/avancé et la possibilité
+de lire le livre directement sur le web en fait la référence.
+ 
+### Erlang and OTP in action
+
+ * http://www.manning.com/logan/
+ 
+Très bon livre avec des  exemples concrets (création d'un serveur RPC,
+d'un   serveur   http   basique),  permettant   de   voir   réellement
+l'application d'Erlang  au monde  réel. Une connaissance  d'Erlang est
+plus que recommandée.
+ 
+### Erlang Programming, A Concurrent Approach to Software Development
+
+ * http://oreilly.com/catalog/9780596518189
+ 
+Un livre  qui pourrait  être en quelque  sorte la  suite d'Introducing
+Erlang. Il permet de voir d'autres applications et quelques usages peu
+connu d'Erlang (programmation d'interface graphique par exemple).
+ 
+### Programming Erlang, Software for a Concurrent World
+
+ * http://pragmaticprogrammer.com/titles/jaerlang/index.html
+ 
+Seconde  édition  sortie récemment,  ce  livre  a  été écrit  par  Joe
+Armstrong, l'un des concepteurs d'Erlang  et est actuellement le livre
+le  plus  complet pour  avoir  de  bonnes  bases  et voir  toutes  les
+possibilités offertes par ce langage.
+ 
+### Designing for Scalability with Erlang/OTP
+
+ * http://shop.oreilly.com/product/0636920024149.do
+
+Vous savez développer  en Erlang, vous voulez en savoir  plus sur OTP,
+sur  le concurrentiel,  sur  la haute  disponibilité et  l'évolutivité
+d'Erlang? Ce livre  est une petite merveille qui  permet d'étendre son
+champ de vision. Je recommande.
+
+### Building web applications with Erlang
+
+ * http://shop.oreilly.com/product/0636920021452.do
+ 
+Un livre  qui présente YAWS (Yet  Another Web Server), un  serveur web
+intégralement  écrit   en  Erlang   et  supportant   la  configuration
+apache. Actuellement, si vous voulez créer un simple site web, cowboy,
+mokiweb  ou   webmachine  seront  suffisant  (et   souvent  bien  plus
+performant).
+
+## Papers
+
+ * Concurrent Programming in Erlang: http://erlang.org/download/erlang-book-part1.pdf
+ * 
