@@ -168,177 +168,114 @@ brew install erlang
 
 ## Rentrons dans le vif du sujet.
 
-Erlang  offre  de  nombreuses  fonctionnalités peu  communes  pour  la
-majorité des  langages, pas étonnant, vu  qu'il n'y a que  très peu de
-langage orienté concurrentiel, la  majorité étant orienté impératif ou
-objet. Erlang se  rapproche plus d'un système  d'exploitation que d'un
-langage traditionnel. 
+Reprennons notre histoire du début et essayons de reproduire le
+comportement des personnages qui parlent ensemblent.
 
-Quand vous  utilisez un langage  objet, vous avez l'habitude  de créer
-des classes (modèles  d'objets) qui seront ensuite, une  fois que vous
-en aurez  besoin, instanciés  en objet. Ce  concept d'objet  permet de
-regrouper  une  structure de  donnée  et  les  fonctions liées  à  ces
-informations. Erlang  utilise un système  un peu comparable  mais avec
-une isolation forte: des micro-processus.
+```
+Alice parle avec Bob.
+Bob parle avec Alice.
 
-Un micro-processus est  un objet totalement isolé du  reste des autres
-micro-processus.  Ce dernier possède différent moyen de communication.
-Par exemple, il a une  "boite aux lettres".  Cette fonctionnalité, qui
-n'est  simplement  qu'une  "queue"   ou  FIFO,  permet  d'envoyer  des
-instructions  qui s'empilent.  Le micro-processus  récupère alors  les
-instructions contenu dans les messages et les exécutent à la suite.
+```
 
-Erlang étant  un langage  concurrentiel et fonctionnel,  de nombreuses
-personnes   ne  seront   pas   surprises  de   ne   pas  trouver   les
-traditionnelles boucles (while, for,  foreach), structure de controles
-importantes dans pratiquement tous  les langages.  Malheureusement (ou
-heureusement), avec le paradigme  fonctionnel, tout est fonction. Pour
-générer donc une boucle (infinie ou non), nous utilisons des fonctions
-récursives!
+Nous avons donc 2 acteurs qui parlent ensemblent et qui sont dépendant
+l'un de l'autre. Le fait de parler avec une autre personne peut-être
+considéré comme un état. "Alice parle avec Bob", "Bob parle avec
+Alice", peut-être écrit de la façon suivante:
 
 ```erlang
 
-boucle_infinie() ->
-  io:format("Je suis une boucle qui n'en finie pas de boucler!~n"),
-  boucle_infinie().
+alice(Etat) ->
+  receive
+    {parle, Avec} -> 
+	  io:format("Alice parle avec ~p~n", [Avec])
+  end,
+  ok.
   
-```
-
-Une   boucle   infinie   peu    se   faire   dans   n'importe   quelle
-langage. D'ailleurs,  le paradigme fonctionnel peut-être  réalisé dans
-tous  les langages,  mais  la  syntaxe ne  se  prête  pas forcement  à
-l'exercice. Une fonction  récursive en C par exemple,  n'est pas aussi
-simple à faire.
-
-```c
-
-void 
-boucle_infinie(void) {
-  printf("Je suis une boucle qui n'en finie pas de boucler!\n");
-  boucle_infinie();
-}
+bob(Etat) ->
+  receive
+    {parle, Avec} ->
+	  io:format("Bob parle avec ~p~n", [Avec])
+  end,
+  ok.
 
 ```
 
-ou encore en python,
-
-```python
-
-def boucle_infinie:
-  print "Je suis une boucle qui n'en finie pas de boucler!"
-  boucle_infinie()
-
-```
-
-ou bien en javascript.
-
-```javascript
-
-function boucle_infinie() {
-  console.log("Je suis une boucle qui n'en finie pas de boucler!");
-  boucle_infinie();
-}
-
-```
-
-Vous   me   direz...    Il   n'y   a  qu'une   ou   deux   lignes   en
-plus. Malheureusement, ça  se complique quand nous  parlons d'état. Un
-état, pour  faire simple, est  l'image de  quelque chose à  un instant
-T. Reprennons l'exemple de la conversation. Lorsque vous êtes en train
-de parler avec  Bob, vous êtes dans l'état: "Parler  avec Bob". Durant
-votre  conversation, Eve  vous  bouscule, vous  changez alors  d'état:
-"Réagir à  la bousculade". Eve  s'excuse et repars, vous  pouvez alors
-reprendre votre état  de départ, l'état "initial":  "Parler avec Bob".
-Nous verrons  un peu plus loin  que ce modèle s'appelle  une machine à
-état  finis,  ou "Finite  State  Machine"  (FSM) en  anglais.  Comment
-réaliser ce code en Erlang?
+Je suppose que vous n'avez jamais fais d'Erlang, je vais donc vous
+expliquer le fonctionnement de ce petit bout de code.
 
 ```erlang
 
-alice_fsm(Etat) ->
-	receive
-	  "initial" -> 
-	     io:format("Alice parle avec Bob!~n"),
-	     alice_fsm("Parler avec Bob");
-	  "bousculer" ->
-	     io:format("Alice se fait bousculer par Eve"),
-	     alice_fsm("bousculer par Eve")
-	end.
+% Les commentaires en Erlang sont définis par un %, tout ce qui se 
+% trouve derrière n'est pas interprété.
 
-start() ->
-  spawn(fun() -> alice_fsm("initial") end).
-
-```
-
-Ce petit bout de code permet de définir grossièrement 2 états:
-
- 1. l'état initial, où Alice parle avec Bob
- 2. l'état perturber, où Eve bouscule Alice.
-
-Avant de vous laisser baver devant  le code à essayer de le comprendre
-par vous même, je vais essayer de l'expliquer simplement:
-
-```alice_fsm(Etat) ->``` est la  déclaration de la fonction alice_fsm,
-qui prend  un argument  nommé Etat. En  Erlang, les  variables doivent
-obligatoirements  commencées par  une  lettre  majuscule. La  "flèche"
-définit donc les actions qui vont être effectuée par la fonction.
-
-```receive``` est  un mot  clé du  langage qui  permet de  regarder la
-boite mail  du processus. Les messages  qui se trouvent dans  la boite
-aux lettres  ne sont  que des structures  de données  Erlang (integer,
-atom,  liste, tuples,  etc).  Cette fonction  utilise  le principe  de
-"pattern matching" propre aux langages fonctionnels.
-
-Le pattern  matching, pour  faire simple,  c'est de  se dire  que nous
-savons déjà  la valeur que  va prendre  une variable. Dans  notre cas,
-nous savons que nous avec que 2 états, et nous savons la valeur de ces
-états (initial  ou bousculer).  Donc,  quand le processus  va regarder
-dans sa boite  aux lettres et va recevoir le  message "initial", il va
-passer dans l'état "initial". Si  il reçoit le message "bousculer", il
-passera dans l'état bousculer.
-
-```io:format("String")```    est    une   fonction    équivalente    à
-```printf()``` en C, ou ```echo``` en  PHP ou bien encore ```put``` en
-Ruby.  Cette  fonction permet  d'afficher  un  message sur  la  sortie
-standard.
-
-Vous  noterez qu'après  avoir appeler  la fonction  ```io:format()```,
-nous  utilisons le  principe de  la boucle  récursive en  rappelant la
-fonction ```alice_fsm()``` avec pour argument le nouvel état!
-
-La dernière partie du code, qui déclare la fonction ```start()```
-permet simplement de créer un micro-processus en appelant la fonction
-```spawn()```, cette dernière prend pour argument une fonction
-anonyme, qui doit elle lancé la fonction qui va boucler.
-
-À noter que cette fonction retourne un ```pid``` ou process-id, qui va
-nous servir pour parler avec notre micro-processus, en lui envoyant du
-courrier! D'ailleurs... Et si on lui parlait?
-
-```erlang
-parler(Pid) ->
-  Pid ! "initial".
+% nous allons déclarer une fonction, alice(), qui va prendre un 
+% argument (variable) qui s'appelera Etat.
+alice(Etat) ->
+  % À partir d'ici, nous sommes dans le contexte d'exécution
+  % de la fonction alice/1. alice/1 est une notation propre
+  % à Erlang, et qui signifie simplement le nombre d'argument
+  % que va prendre la fonction. Dans notre cas, alice ne prends
+  % qu'un seul argument, donc, son nom est alice/1.
   
-bousculer(Pid) ->
-  Pid ! "bousculer".
+  receive
+    % receive est une fonction spécial d'Erlang, qui fait d'ailleurs
+	% partit de sa syntaxe. Cette fonction permet de lire la boite 
+	% au lettre du processus. À partir de là, nous avons accès au
+	% contenu de la queue. Pour y accéder, nous utilisons ce que 
+	% nous appelons du pattern matching. Nous récupérons tout
+	% simplement ce que nous connaissons déjà.
+	
+	{parle, Avec} ->
+	  % ici, nous recherchons dans la boite mail, tout message qui
+	  % est un tuple de longueur 2, ayant pour première valeur un
+	  % atom 'parle' et pour deuxième valeur, n'importe quelle
+	  % donnée.
+	  
+	  io:format("Alice parle avec ~p~n", [Avec])
+	  % cette fonction permet simplement d'afficher un message
+	  % sur la sortie standard.
+
+  end,
+  % nous sortons de la boite mail. En Erlang, les instructions
+  % sont séparés par une ","
+  
+  ok.
+  % et nous retournons simplement la valeur 'ok' qui est un atome.
+  % Le "." à la fin de la ligne indique la fin du contexte
+  % d'exécution de la fonction alice.
+
 ```
 
-Ces  2 fonctions  permettent  de faire  changer  l'état d'Alice,  elle
-prenne chacune le process-id comme  argument et utilise un petit sucre
-syntaxique   ```!```  qui   est   un  raccourcis   pour  la   fonction
-```send```.  Nous  envoyons  simplement "bousculer"  ou  "initial"  ou
-process-id contenu dans la variable ```Pid```.
+Tiens... Vous avez remarquez? 2 fonctions qui font la même chose? Ce
+n'est pas très jolie tout ça! Nous allons donc dire que le nom des
+personnages fait partit des états.
 
-Que neni! Je vous avais promis de vous le faire dans un autre langage!
-Essayons de reproduire "simplement" ce comportement en C. Déjà de quoi
-avons nous besoins?
+```erlang
+personnage(Name, Etat) ->
+  receive
+    {parle, Avec} ->
+	  io:format("~p parle avec ~p~n", [Name, Avec])
+  end,
+  ok.
+```
 
- . d'une queue permettant de recevoir les messages
- . d'une fonction qui va être dans 2 états
- . d'un moyen d'envoyer des messages à la fonction lancée.
+Mieux! Maintenant que nous avons notre fonction, comment faire pour
+créer un processus à partir de cette fonction? Tout simplement avec
+l'aide de la fonction ```spawn/1```. 
 
-```c
+```erlang
 
+start_personnage(Name, Etat) ->
+  % contexte d'exécution de la fonction start_personnage
+  
+  spawn(fun() -> personnage(Name, Etat) end).
+  % spawn/1 prend comme argument une fonction anonyme (ou lambda).
+  % une fonction anonyme en erlang est définie de la façon suivante:
+  %   fun(Arg1, Arg2, ArgN) -> 
+  %     function(Arg1), function(Arg2), function(ArgN) 
+  %   end.
+  % Si l'exécution est réussie, spawn retourne l'identifiant du
+  % processus.
 ```
 
 ## Voyons grand!
