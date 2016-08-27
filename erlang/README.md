@@ -168,6 +168,34 @@ brew install erlang
 
 ## Rentrons dans le vif du sujet.
 
+Erlang, comme  beaucoup de langage aujourd'hui,  fournit une interface
+interactive, ```erl```. Nous pouvons faire beaucoup de chose avec... À
+vrai dire  nous pouvons tout  faire mais  par soucis de  clareté, nous
+utiliserons des fichiers plats qui contiendront le code source.
+
+Pour  réaliser les  petits exercices  suivants, nous  allons créer  un
+fichier  ```personnage.erl```. Erlang  nécessite  l'ajout de  quelques
+éléments au sein de ce fichier source:
+
+```erlang
+-module(personnage). % nom du module.
+-compile([export_all]. % nous exportons toutes les fonctions.
+
+% ici, votre code!
+
+```
+
+Pour  avoir accès  aux fonctions  que  vous aurez  déclaré, il  faudra
+compiler le fichier en question, pour se faire, 2 méthodes:
+
+ 1. utiliser ```erlc```, le compilateur Erlang
+ 
+ 2. utiliser la fonction ```c(nomdufichier)``` dans le shell Erlang.
+
+Cette commande devrait alors produire un fichier ```.beam``` qui sera
+tout simplement votre code source compilé pour la machine virtuelle
+Erlang.
+
 Reprennons notre histoire du début et essayons de reproduire le
 comportement des personnages qui parlent ensemblent.
 
@@ -201,7 +229,7 @@ bob(Etat) ->
 ```
 
 Je suppose que vous n'avez jamais fais d'Erlang, je vais donc vous
-expliquer le fonctionnement de ce petit bout de code.
+expliquer rapidement le fonctionnement de ce petit bout de code.
 
 ```erlang
 
@@ -248,7 +276,7 @@ alice(Etat) ->
 
 Tiens... Vous avez remarquez? 2 fonctions qui font la même chose? Ce
 n'est pas très jolie tout ça! Nous allons donc dire que le nom des
-personnages fait partit des états.
+personnages fait partit intégrantes de l'état d'un personnage.
 
 ```erlang
 personnage(Name, Etat) ->
@@ -277,6 +305,65 @@ start_personnage(Name, Etat) ->
   % Si l'exécution est réussie, spawn retourne l'identifiant du
   % processus.
 ```
+
+Pour lancer votre processus, vous n'avez plus qu'à lancer la commande
+dans le shell erlang:
+
+```erlang
+Alice = personnage:start_personnage(alice, []).
+Bob = personnage:start_personnage(bob, []).
+```
+
+la variable ```Alice``` va contenir la valeur du pid du processus qui
+aura pour nom "alice" et Bob va contenir la valeur du pid du processus
+qui aura pour nom "bob".  Envoyons un message à ces 2 processus!
+
+```erlang
+Alice ! {parle, bob}.
+% affiche alice parle avec bob
+
+Bob ! {parle, alice}.
+% affiche bob parle avec alice
+```
+
+Bon! Pour le moment nous n'avons pas de réelle interraction entre les
+2 processus que nous venons de créer, d'ailleurs, quand on leur envoit
+un message... Il s'arrête, vu que nous n'avons pas créer de
+boucle. Nous allons corriger tout ça.
+
+```erlang
+personnage(Name, Etat) ->
+  receive
+    {parle, Avec} ->
+	  io:format("~p parle avec ~p~n", [Name, Avec]),
+	  personnage(Name, Etat)
+	  % la fonction s'appelle elle-même et crée donc une boucle
+	  % récursive.
+  end.
+```
+
+Ok! La variable Alice n'est plus utilisable... Pourquoi? Parce que
+c'est un principe fondateur de la programmation fonctionnelle. Tant
+que nous sommes dans le même contexte, la variable ne peut être
+modifié, ce que nous appellons immutabilité. Le shell possède quand
+même quelques fonctions permettant de réattribuer une variable:
+```f(Alice)``` reset le contenu de la variable. Relonçons donc
+maintenant le processus.
+
+```erlang
+Alice = start_personnage(alice, []).
+Alice ! {parle, bob}.
+% affiche alice parle avec bob
+
+Alice ! {parle, bob}.
+% affiche alice parle avec bob
+
+Alice ! {parle, bob}.  
+% affiche alice parle avec bob 
+``` 
+
+Nous avons donc notre processus qui boucle et qui garde son état
+initial! Génial!
 
 ## Voyons grand!
 
