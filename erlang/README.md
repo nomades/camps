@@ -30,19 +30,19 @@ Dans  un soucis  de normalisation,  une équipe  de chercheur  de cette
 société décida de créer un  langage permettant de répondre à plusieurs
 problèmes en même temps:
 
- . Un langage portable, que tous les équipements comprendraient
+ * Un langage portable, que tous les équipements comprendraient
  
- . Un langage sécurisant, basé sur la programmation fonctionnelle
+ * Un langage sécurisant, basé sur la programmation fonctionnelle
  
- . Un langage qui simplierait l'exécution des tâches en parallèles
+ * Un langage qui simplierait l'exécution des tâches en parallèles
  
- . Un langage qui serait productif et simpliefierait la vie des
+ * Un langage qui serait productif et simpliefierait la vie des
    développeurs
  
- . Un langage sécurisé, qui mettrait en avant des principes
+ * Un langage sécurisé, qui mettrait en avant des principes
    d'isolations forts
    
- . Et pleins d'autres arguments que nous verrons au fur-et-à-mesure.
+ * Et pleins d'autres arguments que nous verrons au fur-et-à-mesure.
  
 Une  équipe  fut  alors  formé  pour travailler  sur  ce  projet,  Joe
 Armstrong,  Robert Virding,  et Mike  Williams furent  les premiers  à
@@ -220,13 +220,24 @@ boucle_infinie(void) {
 
 ```
 
-ou encore en python.
+ou encore en python,
 
 ```python
 
 def boucle_infinie:
   print "Je suis une boucle qui n'en finie pas de boucler!"
   boucle_infinie()
+
+```
+
+ou bien en javascript.
+
+```javascript
+
+function boucle_infinie() {
+  console.log("Je suis une boucle qui n'en finie pas de boucler!");
+  boucle_infinie();
+}
 
 ```
 
@@ -420,12 +431,47 @@ trace, des optimisations etc...
 ### Seven Concurrency Models in Seven Weeks
 
  * https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
-
+ 
 Un  livre qui  montre plusieurs  modèles pour  gérer la  programmation
 concurrentiel, passant  par Java, C, Erlang,  Clojure... Uniquement si
 vous voulez en savoir plus sur le parallélisme et le concurrentiel.
 
+## Videos
+
+La  communauté Erlang  est très  active et  partage ses  connaissances
+facilement!
+
+ * https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ
+ * https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw
+
 ## Papers
 
- * Concurrent Programming in Erlang: http://erlang.org/download/erlang-book-part1.pdf
- * 
+Quelques  papiers  en  provenance  du  monde de  la  recherche  et  de
+l'industrie   permettant   de   montrer   encore   d'autres   exemples
+d'applications réelles  avec Erlang.  Certains de  ces papiers  ont un
+niveau très élevé, donc... À lire à tête reposée!
+
+ * [A History of Erlang](http://www.math.bas.bg/bantchev/place/erlang/a-history-of-erlang.pdf)
+
+ * [Making reliable distributed systems in the presence of sofware errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
+ 
+ * [Parameterized modules in Erlang](http://www.erlang.se/workshop/2003/paper/p29-carlsson.pdf)
+ 
+ * [A Practical Subtyping System For Erlang](http://homepages.inf.ed.ac.uk/wadler/papers/erlang/erlang.pdf)
+
+ * [JErlang: Erlang with Joins](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2009/h.plociniczak.pdf)
+ 
+ * [A Comparative Study of Refactoring Haskell and Erlang Programs](https://www.cs.kent.ac.uk/projects/refactor-fp/publications/huiqing-ComparativeStudyRefactoringHaskellErlangPrograms.pdf)
+ 
+ * [Investigating the Scalability Limits of Distributed Erlang](http://www.dcs.gla.ac.uk/~amirg/publications/DE-Bench.pdf)
+ 
+ * [Hyper-Erlang Distribution Model and its Application in Wireless Mobile Networks](http://www.fang.ece.ufl.edu/mypaper/winet01_5.pdf)
+ 
+ * [Erlang Security 101](https://www.nccgroup.trust/globalassets/our-research/uk/whitepapers/2014/erlang_security_101_v1-0.pdf)
+ 
+ * [Bit-level Binaries and Generalized Comprehensions in Erlang](http://user.it.uu.se/~pergu/papers/erlang05.pdf)
+ 
+ * [Automatic Veri cation of Erlang-Style Concurrency](http://mjolnir.cs.ox.ac.uk/soter/papers/sas13.pdf)
+ 
+ * [Concurrent Programming in Erlang](http://erlang.org/download/erlang-book-part1.pdf)
+
