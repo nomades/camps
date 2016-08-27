@@ -58,11 +58,28 @@ code, qui passe alors en open-source sous une licence Apache 2.0.
 
 Il faut attendre 10ans de plus pour  voir plus de projets basés sur ce
 langage, tout  d'abord, eJabberd, serveur  de chat basé sur  XMPP, qui
-utilise  Erlang  depuis le  début.  Arrive  ensuite d'autres  sociétés
-intéressés  par  ce  langage,  tel   que  Google,  Amazon,  ou  encore
-Facebook.  La société  ayant fait  le  plus de  bruit étant  WhatsApp,
-valorisé à  plus de 40  milliard de $ pour  une équipe d'une  30ène de
-personne, toute la plateforme fonctionnant sous Erlang!
+utilise  Erlang depuis  le  début.  Arrive  ensuite d'autres  sociétés
+intéressés par ce langage, tel que Google, Amazon, ou encore Facebook.
+La société ayant fait le plus de bruit étant WhatsApp, valorisé à plus
+de 40 milliard de $ pour une  équipe d'une 30ène de personne, toute la
+plateforme  fonctionnant  sous  Erlang!  Citons  quand  même  quelques
+projets supplémentaires:
+
+ * CouchDB: base de donnée NoSQL
+ * Barrel: fork de CouchDB
+ * Riak: base de donnée NoSQL
+ * eJabberd: serveur XMPP
+ * RabbitMQ: protocole de messaging haute performance
+ * cowboy: serveur http
+ * mochiweb: serveur http
+ * webmachine: serveur http
+ * nitrogen: framework web 
+ * chicago boss: framework web
+ * chef: orchestrateur de deploiement
+ * YAWS: serveur web
+ * logplex: routeur de log
+ * MongooseIM: serveur XMPP
+ * et beaucoup d'autres...
 
 ## Pourquoi Erlang?
 
@@ -192,11 +209,11 @@ compiler le fichier en question, pour se faire, 2 méthodes:
  
  2. utiliser la fonction ```c(nomdufichier)``` dans le shell Erlang.
 
-Cette commande devrait alors produire un fichier ```.beam``` qui sera
-tout simplement votre code source compilé pour la machine virtuelle
+Cette commande devrait alors produire  un fichier ```.beam``` qui sera
+tout simplement  votre code source  compilé pour la  machine virtuelle
 Erlang.
 
-Reprennons notre histoire du début et essayons de reproduire le
+Reprennons  notre  histoire du  début  et  essayons de  reproduire  le
 comportement des personnages qui parlent ensemblent.
 
 ```
@@ -206,8 +223,8 @@ Bob parle avec Alice.
 ```
 
 Nous avons donc 2 acteurs qui parlent ensemblent et qui sont dépendant
-l'un de l'autre. Le fait de parler avec une autre personne peut-être
-considéré comme un état. "Alice parle avec Bob", "Bob parle avec
+l'un de l'autre.  Le fait de parler avec une  autre personne peut-être
+considéré  comme un  état. "Alice  parle  avec Bob",  "Bob parle  avec
 Alice", peut-être écrit de la façon suivante:
 
 ```erlang
@@ -228,7 +245,7 @@ bob(Etat) ->
 
 ```
 
-Je suppose que vous n'avez jamais fais d'Erlang, je vais donc vous
+Je suppose  que vous n'avez  jamais fais  d'Erlang, je vais  donc vous
 expliquer rapidement le fonctionnement de ce petit bout de code.
 
 ```erlang
@@ -306,7 +323,7 @@ start_personnage(Name, Etat) ->
   % processus.
 ```
 
-Pour lancer votre processus, vous n'avez plus qu'à lancer la commande
+Pour lancer votre processus, vous  n'avez plus qu'à lancer la commande
 dans le shell erlang:
 
 ```erlang
@@ -314,7 +331,7 @@ Alice = personnage:start_personnage(alice, []).
 Bob = personnage:start_personnage(bob, []).
 ```
 
-la variable ```Alice``` va contenir la valeur du pid du processus qui
+la variable ```Alice``` va contenir la  valeur du pid du processus qui
 aura pour nom "alice" et Bob va contenir la valeur du pid du processus
 qui aura pour nom "bob".  Envoyons un message à ces 2 processus!
 
@@ -326,9 +343,9 @@ Bob ! {parle, alice}.
 % affiche bob parle avec alice
 ```
 
-Bon! Pour le moment nous n'avons pas de réelle interraction entre les
+Bon! Pour le moment nous n'avons  pas de réelle interraction entre les
 2 processus que nous venons de créer, d'ailleurs, quand on leur envoit
-un message... Il s'arrête, vu que nous n'avons pas créer de
+un  message...  Il  s'arrête,  vu   que  nous  n'avons  pas  créer  de
 boucle. Nous allons corriger tout ça.
 
 ```erlang
@@ -342,12 +359,12 @@ personnage(Name, Etat) ->
   end.
 ```
 
-Ok! La variable Alice n'est plus utilisable... Pourquoi? Parce que
-c'est un principe fondateur de la programmation fonctionnelle. Tant
-que nous sommes dans le même contexte, la variable ne peut être
-modifié, ce que nous appellons immutabilité. Le shell possède quand
-même quelques fonctions permettant de réattribuer une variable:
-```f(Alice)``` reset le contenu de la variable. Relonçons donc
+Ok! La  variable Alice  n'est plus  utilisable... Pourquoi?  Parce que
+c'est un  principe fondateur  de la programmation  fonctionnelle. Tant
+que  nous sommes  dans  le même  contexte, la  variable  ne peut  être
+modifié, ce  que nous appellons  immutabilité. Le shell  possède quand
+même  quelques  fonctions  permettant  de  réattribuer  une  variable:
+```f(Alice)```  reset  le  contenu  de  la  variable.  Relonçons  donc
 maintenant le processus.
 
 ```erlang
@@ -362,8 +379,9 @@ Alice ! {parle, bob}.
 % affiche alice parle avec bob 
 ``` 
 
-Nous avons donc notre processus qui boucle et qui garde son état
-initial! Génial!
+Nous  avons donc  notre processus  qui boucle  et qui  garde son  état
+initial! Génial! Vous savez donc maintenant créer des micro-processus,
+et faire en sorte qu'ils lisent leurs messages.
 
 ## Voyons grand!
 
