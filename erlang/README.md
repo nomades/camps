@@ -117,6 +117,55 @@ Bien évidemment, j'ai d'abord testé d'autres langages: Haskell, OCaml,
 Miranda, Go... Ils ont tous le même problème: ils laissent le choix au
 développeur.
 
+## Comment installer Erlang?
+
+Compatible  avec la  majorité des  systèmes,  il n'est  pas livré  par
+défaut  sur  la   pluspart  et  nécessite  donc   l'installer  via  un
+package.  Ce dernier  est  volumineux mais  contient un  environnement
+complet de développement.
+
+ * sous [Debian](https://packages.debian.org/jessie/erlang) ou
+   [Ubuntu](http://packages.ubuntu.com/xenial/erlang):
+
+```sh
+apt-get install erlang
+```
+
+ * sous [FreeBSD](https://www.freshports.org/lang/erlang), PCBSD, ou
+   DragonFlyBSD:
+
+```sh
+pkg install erlang
+```
+
+ * sous [OpenBSD](http://openports.se/lang/erlang/19):
+
+```sh
+pkg_add erlang19
+```
+
+ * sous [VoidLinux](https://github.com/voidlinux/void-packages/tree/master/srcpkgs/erlang):
+ 
+```sh
+xbps-install erlang 
+```
+
+ * sous [Gentoo](https://packages.gentoo.org/packages/dev-lang/erlang):
+ 
+```sh
+emerge dev-lang/erlang
+```
+
+ * sous MaxOS X:
+ 
+```sh
+brew install erlang
+```
+
+ * sous Windows, vous pouvez récupérer des paquets binaires à
+   l'adresse https://www.erlang-solutions.com/resources/download.html
+   et les installer.
+
 ## Rentrons dans le vif du sujet.
 
 Erlang  offre  de  nombreuses  fonctionnalités peu  communes  pour  la
@@ -144,7 +193,7 @@ personnes   ne  seront   pas   surprises  de   ne   pas  trouver   les
 traditionnelles boucles (while, for,  foreach), structure de controles
 importantes dans pratiquement tous  les langages.  Malheureusement (ou
 heureusement), avec le paradigme  fonctionnel, tout est fonction. Pour
-générer donc une boucle (infini  ou non), nous utilisons des fonctions
+générer donc une boucle (infinie ou non), nous utilisons des fonctions
 récursives!
 
 ```erlang
@@ -168,6 +217,16 @@ boucle_infinie(void) {
   printf("Je suis une boucle qui n'en finie pas de boucler!\n");
   boucle_infinie();
 }
+
+```
+
+ou encore en python.
+
+```python
+
+def boucle_infinie:
+  print "Je suis une boucle qui n'en finie pas de boucler!"
+  boucle_infinie()
 
 ```
 
@@ -270,37 +329,6 @@ avons nous besoins?
 ```c
 
 ```
-
-## Concrètement, comment ça fonctionne?
-
-Dans l'historique du projet, nous avons vu qu'Erlang devait répondre à
-certaines spécifications, concrètement ça donne ça:
-
-### Portabilité
-
-La portabilité est  opéré grâce à une machine  virtuelle, nommée BEAM,
-qui  permet   de  faire  abstraction  des   problèmes  d'architectures
-différentes. Cette  solution est  similaire à bien  d'autres langages,
-tel que Java (utilisant la JVM) ou encore Python, Perl ou Ruby.
-
-Malheuresement, la  performance n'est pas forcement  au rendez-vous en
-utilisant  BEAM, donc,  une autre  solution  a récemment  été mise  en
-place, nommée HiPE. HiPE compile le  code Erlang, non pas en bytecode,
-mais directement dans le langage propre à l'architecture.
-
-### Langage sécurisant
-
-La programmation  fonctionnelle est issue du  monde des mathématiques,
-de la  théorie des  groupes et  du lambda  calcul. Ce  paradigme offre
-beaucoup aux  développeurs en  permettant de  simplifier le  code tout
-sécurisant ce qu'il y a autour.
-
- . Récursivité
- . Pattern Matching
- . Guard
- . Typage 
- . Currying
- . 
  
 # Annexes
 
@@ -308,6 +336,7 @@ sécurisant ce qu'il y a autour.
 
  * http://www.erlang.org/
  * http://www.erlang-factory.com/
+ * http://www.tryerlang.org/
 
 ## Bibliographie
 
@@ -369,6 +398,32 @@ intégralement  écrit   en  Erlang   et  supportant   la  configuration
 apache. Actuellement, si vous voulez créer un simple site web, cowboy,
 mokiweb  ou   webmachine  seront  suffisant  (et   souvent  bien  plus
 performant).
+
+### Handbook of Neuroevolution Through Erlang
+ 
+ * https://www.springer.com/us/book/9781461444626
+ * https://www.youtube.com/watch?v=TcUqGIHq8rA
+ * http://www.erlang-factory.com/upload/presentations/536/ErlangConferencePresentation_2012.pdf
+
+Livre très complexe, issue directement  du monde de la recherche, mais
+permet de voir l'application d'Erlang  dans un domaine particulier: la
+neuroscience.
+
+###  Stuff Goes Bad: Erlang in Anger 
+
+ * https://www.erlang-in-anger.com/
+
+Par l'auteur de "Learn You Some  Erlang for Great Good", un contenu un
+peu  plus étendu  sur des  sujets  plus complexe,  comme l'analyse  de
+trace, des optimisations etc...
+
+### Seven Concurrency Models in Seven Weeks
+
+ * https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
+
+Un  livre qui  montre plusieurs  modèles pour  gérer la  programmation
+concurrentiel, passant  par Java, C, Erlang,  Clojure... Uniquement si
+vous voulez en savoir plus sur le parallélisme et le concurrentiel.
 
 ## Papers
 
