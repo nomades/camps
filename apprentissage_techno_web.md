@@ -21,7 +21,7 @@ Le "test Fizz - Buzz" est souent utilisé lors d'entretien d'emploi, il est con�
 
 Challenge annoncé à voix haute : **Le but est d'écrire un tel programme en moins de 10 minutes**
 
-* Un ordinatuer par participant
+* Un ordinateur par participant
  *  une invite de commande
  *  éditeur de text (ex: sublime texte)
 
