@@ -1,7 +1,7 @@
 ---
 title: Summercamp, page de présentation de l'événement
 description: Summercamp du 4 au 15 août 2016 à Kerbors (Bretagne)
-image_url: https://github.com/multibao/contributions/blob/master/media/summercampkerbors.jpg?raw=true
+image_url: https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.266912_1470046217892_collage kerbors.jpg
 ---
 
 # [#SummerCamp 2016] Carnet de bord
