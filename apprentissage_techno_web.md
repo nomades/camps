@@ -1,7 +1,7 @@
 ---
 title: S'initier à une techno web à plusieurs
-description : learning by doing, gamefication de l'apprentissage, code
-image_url : https://framapic.org/YJK1ICPDaeM3/0RJ01Iptwpk1.jpg
+description: learning by doing, gamefication de l'apprentissage, code
+image_url: https://framapic.org/YJK1ICPDaeM3/0RJ01Iptwpk1.jpg
 ---
 
 # S'inniter à JavaScript avec un jeu collaboratif
