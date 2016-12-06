@@ -4,7 +4,7 @@ description: Quelques principes phares qui ont facilité l'organisation du camp 
 image_url: https://github.com/multibao/contributions/blob/master/media/summercampkerbors.jpg?raw=true
 ---
 
-# Principes d'organisation frugales mises en oeuvres lors du Summercamp
+# Principes d'organisation frugales mis en oeuvres lors du Summercamp
 
 ## Less is more
 
