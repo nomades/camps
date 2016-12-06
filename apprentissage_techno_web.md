@@ -1,3 +1,9 @@
+---
+title: S'initier à une techno web à plusieurs
+description : learning by doing, gamefication de l'apprentissage, code
+image_url : https://framapic.org/gtHnVm99Haon/0smiAJAKNIQK.jpg
+---
+
 # S'inniter à JavaScript avec un jeu collaboratif
 
 Un développeur confirmé lance l'idée de s'amuser avec deux ou trois personnes présentes afin de monter en compétence dans l'écriture et la compréhension des du langage [JavaScript](https://fr.wikipedia.org/wiki/JavaScript)
