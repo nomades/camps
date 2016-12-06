@@ -1,7 +1,7 @@
 ---
 title: Animer un rétrospective à mi parcours
 description: Session collaborative qui pose un espace de partage au sein d'un groupe. Un facilitateur provenant du groupe est nécessaire pour guider la séance. Le facilitateur participe lui-même à la session.
-image_url:https://framapic.org/oaoNavOTNv9b/nyPh9AKT48RV.jpg
+image_url: https://framapic.org/oaoNavOTNv9b/nyPh9AKT48RV.jpg
 ---
 
 Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html). L'approche UT7 provient elle même d'un format inventé par Virginia Satir, une psychotérapeute familiale, format qu’elle appelle en anglais « Temperature Reading ».
