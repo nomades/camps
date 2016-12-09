@@ -1,13 +1,14 @@
-# Se nourrir des plantes sauvages et abaisser les frais de vie en communauté
+# Se nourrir des plantes sauvages en autres ressources naturelles 
 
-La nature, tout partiulièrement les bors de mer, nous a fourni de quoi nous nourrir lors de ce summer camp tout en nous offrant l'opportunité de vivre des pratiques collaboratives lors de temps dédiés à d'autres actvités que le travail entrepreunarial.
 
-## Pourquoi
+La nature, tout particulièrement les bors de mer, nous a fourni de quoi nous nourrir lors de ce summer camp tout en nous offrant l'opportunité de vivre des pratiques collaboratives lors de temps dédiés à d'autres actvités que le travail entrepreunarial.
 
-* Transmettre des savoirs
+## Pourquoi ces pratiques
+
+* Transmettre des savoirs de génération e génération
 * Manger sain et ultra local
 * Baisser les couts de séjour
-* Créer des activités renfoçant le groupe
+* Créer des activités renfoçant la dynamique de groupe
 
 ## Ce que nous avons cuisiné et mangé à Kerbors
 
@@ -26,6 +27,10 @@ En plus de quelques pêche à pieds pour les coques, les bigorneaux et crabes ve
 * Carotte sauvage d'Espagne 
 
 * Cynoglosse
+
+* Coques
+
+* Huitres
 
 ## Conseil avec les plantes du bord de mer
 
