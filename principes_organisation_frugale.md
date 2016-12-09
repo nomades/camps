@@ -29,3 +29,6 @@ image_url: https://github.com/multibao/contributions/blob/master/media/summercam
 
 Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
 
+## Summer Camp kerbors : J1 open rov 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SbBEXgEiv8A" frameborder="0" allowfullscreen></iframe>
