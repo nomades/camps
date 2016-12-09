@@ -89,6 +89,10 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 *   Fer à souder, multimètre, 
 *   Cannes à pêche
 
+## Summer camp Kerbors 2016 : les temps off 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ocQ45hEhd30" frameborder="0" allowfullscreen></iframe>
+
 ## Conversation(s)
 
 ### [Xavier](/ep/profile/mG5YIQbhX4t)
