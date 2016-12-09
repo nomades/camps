@@ -83,3 +83,7 @@ When it's done, put the BeagleBone back on, test that everything works correctly
 [7]: reparation_openrov/Tenda-HomePlug.jpg
 [8]: reparation_openrov/bouton-tenda-ROV.jpg
 [9]: http://www.hack-your-brain.com/reparation-dun-openrov/
+
+## Video de contexte de travail
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_wXdLakOAg" frameborder="0" allowfullscreen></iframe>
