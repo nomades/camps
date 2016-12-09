@@ -20,11 +20,15 @@ Marketing, as the organization of attention capture and motivation canalization,
 
 > Here after is the fruit of my travel on the roads of collaborative economy, linked data and political indignation. This is an attempt to sketch what value could create a well designed peer-to-peer resources management system; an ongoing work aiming to gather the theorical basis for prototyping. Feedbacks and sharing welcome!
 
-[1 - Private open data and communicating inventories](http://maxlath.eu/articles/p2p-rm/#private-open-data-and-communicating-inventories)
-[2 - Communicating inventories of objects as mnemotechnics](http://maxlath.eu/articles/p2p-rm/#communicating-inventories-as-mnemotechnics)
-[3 - Reorganize product information as a flow of data](http://maxlath.eu/articles/p2p-rm/#flow-of-data)
-[4 - Communicating inventories as a peer-powered VRM system](http://maxlath.eu/articles/p2p-rm/#communicating-inventories-peer-powered-vrm)
-[5 - Where P2P-RM gets political](http://maxlath.eu/articles/p2p-rm/#p2p-rm-gets-political)
-[Bibliography](http://maxlath.eu/articles/p2p-rm/#bibliography)
+* [1 - Private open data and communicating inventories](http://maxlath.eu/articles/p2p-rm/#private-open-data-and-communicating-inventories)
+* [2 - Communicating inventories of objects as mnemotechnics](http://maxlath.eu/articles/p2p-rm/#communicating-inventories-as-mnemotechnics)
+* [3 - Reorganize product information as a flow of data](http://maxlath.eu/articles/p2p-rm/#flow-of-data)
+* [4 - Communicating inventories as a peer-powered VRM system](http://maxlath.eu/articles/p2p-rm/#communicating-inventories-peer-powered-vrm)
+* [5 - Where P2P-RM gets political](http://maxlath.eu/articles/p2p-rm/#p2p-rm-gets-political)
+* [Bibliography](http://maxlath.eu/articles/p2p-rm/#bibliography)
+
+## Interview Maxime créateur de inventaire.io 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VzdWvbtM86M" frameborder="0" allowfullscreen></iframe>
 
 
