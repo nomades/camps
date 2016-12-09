@@ -29,7 +29,7 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.594514_1469543819719_CoatLannec-carte1.png)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.266912_1470046217892_collage kerbors.jpg)
+![](https://framapic.org/vGptG2DMS7xv/3o6YnXFm8Blz)
 
 ### Thématiques à explorer
 
