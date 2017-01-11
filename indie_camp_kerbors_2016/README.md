@@ -1,6 +1,6 @@
 ---
-title: Summercamp, page de présentation de l'événement
-description: Summercamp du 4 au 15 août 2016 à Kerbors (Bretagne)
+title: Découvrez la documentation du Summercamp 2016 à Kerbors
+description: Summercamp du 4 au 15 août 2016 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation.
 image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px-SummerCamp2016Kerbors.jpeg
 ---
 
