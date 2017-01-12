@@ -12,7 +12,7 @@ Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retr
 
 La session pose un espace de partage au sein d'un groupe. Un facilitateur provenant du groupe est nécessaire pour guider la séance. Le facilitateur participe lui-même à la session.
 
-![](https://framapic.org/5paGihovP14N/dpAPn57DU5Vd "le site du summer camp kerbors)
+![](https://framapic.org/5paGihovP14N/dpAPn57DU5Vd "le site du summer camp kerbors")
 
 # Déroulement
 * Chacun est libre de participer et de s'exprimer. 
