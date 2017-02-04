@@ -19,7 +19,7 @@ Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://mediu
 * Il n'y a pas vraiment d'organisateurs en chef
 * Chaque participants peut porter une responsabilité collective si cela lui convient
 
-## Participer
+# Participer du 1 au 15 aout 2017
 
 * DIY :
  * tu t'organises, sans te reposer sur les non-organisateurs.
@@ -48,7 +48,7 @@ Indie Camp co-conçu par / pour :
 
 _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous porposer en ISSUES sur le dépot github_
 
-## Participant.e.s
+# Participant.e.s
 
 ![](http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png)
 
@@ -79,7 +79,7 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 *   [Open Biofabrics](https://github.com/OpenBioFabrics/scoby) 
 *   [ByodIT](https://lebiome.github.io/#LeBiome/winogradsky_project)
 *   [DAISEE](http://daisee.org/)
-*   [Retour Expérience Open City Lab et biennale du design de St Etienne](https://hackpad.com/DAISEE-Rsidence-Open-City-Lab-ahuXu8dfACa)
+*   [Retour Expérience Open City Lab et biennale du design de St Etienne](http://movilab.org/index.php?title=Portail:Dm1TL/triptyque)
 
 _A compléter_
 
