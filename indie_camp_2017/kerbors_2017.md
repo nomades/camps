@@ -50,7 +50,7 @@ _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à
 
 ## Participant.e.s
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1468679556055_hackpad.com_LxNyipOhh0I_p.266912_1468397878219_newproject_1_original(8).jpg)
+![](http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png)
 
 ## Organisation
 
