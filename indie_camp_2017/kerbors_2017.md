@@ -1,6 +1,6 @@
 ---
 title: Faites partie du Indie Camp 2017 à Kerbors
-description: Indie Camp du 1 au 15 août 2016 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation.
+description: Indie Camp du 1 au 15 août 2016 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation, Learning by Doing. Organisations et Retours d'expériences et de pratiques qui ont eu lieu de différents Indie Camps. Makers, Hackers, Ingenious People, Ecologists, Philosophers
 image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px-SummerCamp2016Kerbors.jpeg
 ---
 
@@ -37,7 +37,9 @@ Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/
 
 *   Photo de Nicolas Loubet en licence CC-BY-NC-SA (prise sur le MYNEcamp 2015). Source : [Pinterest](https://fr.pinterest.com/pin/188729040611270601/). 
 
-Carnet de bord de  l'[Indie Camp 2016](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors. Co-conçu par / pour Cellabz, Explore , Multibao, M[Y]NE / LPS, DAISEE, Le Biome, labOSe, Inventaire.io...
+Carnet de bord de  l'[Indie Camp 2016](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE eco Hack Lab, DAISEE, Le Biome Hack Lab, Inventaire.io, Digital Athanor...
+
+_Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous porposer en ISSUES sur le dépot github_
 
 ## Participant.e.s
 
@@ -66,13 +68,20 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 *   [multiBàO ](http://www.multibao.org/) ou documentation des "pépites" des communautés
 *   [BioHacker House](https://github.com/LeBiome/biohacker_house_project/blob/master/README.md)
 *   [Open Biofabrics](https://github.com/OpenBioFabrics/scoby) 
+*   [ByodIT](https://lebiome.github.io/#LeBiome/winogradsky_project)
+*   [DAISEE](http://daisee.org/)
+*   [Retour Expérience Open City Lab et biennale du design de St Etienne](https://hackpad.com/DAISEE-Rsidence-Open-City-Lab-ahuXu8dfACa)
 
 _A compléter_
 
 ### Logistique des contre-parties
 
-améliorer le wc secs façon ikea avec matériaux faciles à se procurer
-avec bacs à compost efficaces, facile à faire aussi
+* Améliorer le wc secs façon ikea avec matériaux faciles à se procurer
+
+* Bacs à compost efficaces, facile à faire aussi
+
+* Internet en zone rurale reculée ou comment installer un réseau dans un camp sauvage
+
 
 ### Logistique
 
@@ -84,7 +93,7 @@ avec bacs à compost efficaces, facile à faire aussi
 #### Nourriture et boissons
 
 *   6 € / jour / pers. me semble un minimum viable pour la nourriture
-*   Voir 7 euros mais je ne voudrais pas que le prix empêche de venir.
+*   Voir 7 euros mais volonté que le prix n'empêche pas de venir.
 
 #### Gestion du budget du camp (en Bretagne)
 
@@ -121,3 +130,5 @@ avec bacs à compost efficaces, facile à faire aussi
 *   Outils de bricolage 
 *   Fer à souder, multimètre, 
 *   Cannes à pêche
+
+_Penser à completer la liste si vous venez équipés_
