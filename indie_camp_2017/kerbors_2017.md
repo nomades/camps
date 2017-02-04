@@ -33,7 +33,7 @@ Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://mediu
 Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
 
 
-#### Indie Camp 2016 Carnet de bord
+**Indie Camp 2016 Carnet de bord**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1457084494142_8a87609548897e9286d4001e884bc950.jpg)
 
@@ -46,7 +46,7 @@ Indie Camp co-conçu par / pour :
 
 * Cellabz, Explore , Multibao, La M[Y]NE eco Hack Lab, DAISEE, Le Biome Hack Lab, Inventaire.io, Digital Athanor...
 
-_Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous porposer en ISSUES sur le dépot github_
+_Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous proposer en ISSUES sur le dépot github pour vous engager sur ce Camp ou en proposer un autre_
 
 # Participant.e.s
 
