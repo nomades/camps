@@ -15,7 +15,7 @@ La nature, tout particulièrement les bors de mer, nous a fourni de quoi nous no
 * Baisser les couts de séjour
 * Créer des activités renfoçant la dynamique de groupe
 
-![](https://d26wx9sgnlbtbs.cloudfront.net/p/57ae1e31d1993d0087bf6203/57b0d63e71e30b008774ce00/57b1007deaa96639648cbf00/large-IMG_832520160814-14692-lknefz.JPG?1471217789)
+![](https://framapic.org/jDXd2s63jOwl/7FNuO8qzHWSQ.jpg)
 
 ## Ce que nous avons cuisiné et mangé à Kerbors
 
@@ -31,9 +31,9 @@ Le chou marin (Crambe maritima) encore appelé le crambé maritime ou chourbe
 
 > La plante peut également être multipliée par division de souches ou par morceaux de racines.
 
-Les jeunes feuilles, cueillies début mai, toutes crispées, sont délicieuses crues, avec de la vinaigrette. Cuites, elles ont la saveur d’un chou tendre, en plus iodée. Les jeunes pétioles se cuisent comme les asperges.
+> Les jeunes feuilles, cueillies début mai, toutes crispées, sont délicieuses crues, avec de la vinaigrette. Cuites, elles ont la saveur d’un chou tendre, en plus iodée. Les jeunes pétioles se cuisent comme les asperges.
 
-![Wikipedia](https://fr.wikipedia.org/wiki/Crambe_maritime#/media/File:Crambe_Maritima_Estonia.jpg)
+![](https://fr.wikipedia.org/wiki/Crambe_maritime#/media/File:Crambe_Maritima_Estonia.jpg)
 
 **En cuisine ?** Sauf les racines et la base ligneuse des tiges, tout se mange dans le crambé maritime : tiges, feuilles, pétioles, fruits verts.  En gastronomie, les jeunes tiges étiolées du printemps, qui se préparent à la manière des asperges, cuites pendant environ 12 minutes dans l'eau bouillante salée. Mais la période pendant laquelle on peut consommer ces tiges blanchies est brève. Alors que la feuilles cuites à l'eau bouillante penvent être consommée du printemps à septembre.
 
@@ -91,17 +91,97 @@ Déguster
 Un aliment peu calorique, et excellent pour la santé grâce à sa richesse en vitamine A, C et D ainsi qu’en minéraux tels que iode, calcium, potassium, magnésium, phosphore, silice, manganèse, zinc, fer soit des nutriments qui favorisent le transport de l’oxygène, l’absorption du fer par l’organisme.
 
 
-* Plantain
+### Plantain
 
-* Orties
+<p><a href="https://commons.wikimedia.org/wiki/File:Plantago_maritima.jpg#/media/File:Plantago_maritima.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Plantago_maritima.jpg" alt="Description de cette image, également commentée ci-après" width="640" height="480"></a><br>Par <a href="//commons.wikimedia.org/wiki/User:Cwmhiraeth" title="User:Cwmhiraeth">Cwmhiraeth</a> — <span class="int-own-work" lang="fr">Travail personnel</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15792307">Lien</a></p>
 
-* Carotte sauvage d'Espagne 
+Le Plantain maritime (Plantago maritima) est une plante herbacée vivace du littoral et des sources salées de l'hémisphère nord.
 
-* Cynoglosse
+La saveur du plantain est très surprenante et intéressante. Lorsque vous testez son goût en mâchant la saveur surprenante se dégage. Très étonnant, si vous fermez les yeux on dirait… un champignon. Cette plante à la saveur du Bolet.
 
-* Coques
+**recettes**
 
-* Huitres
+* [Le plantain (Plantago)](http://liafaydjam.blogspot.fr/2007/03/plantago-major-plantain-majeur.html)
+
+* [Risotto au plantain](http://la.cuisine-sauvage.org/les-plants/plantain/risotto-de-cepes-virtuel-au-plantain.html)
+
+
+
+**Effets indésirables**
+
+* À hautes doses, le plantain peut avoir des effets laxatifs et hypotenseurs.
+* Certaines personnes peuvent avoir des réactions allergiques au plantain.
+
+
+
+### Orties
+L'ortie (lamier) se consomme en légumes comme des épinards, en soupe, en purée mélangée avec des pommes de terres, en décoction, en infusion.
+
+L'ortie étant un végétal riche en éléments nutritifs (oligo-élements, vitamines, protéines, chlorophylle, silice, fer... est très prisé par les personnes souhaitant s'alimenter naturellement et profiter de ses vertus reminéralisantes.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Ortie1.jpg#/media/File:Ortie1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ortie1.jpg" alt="Description de cette image, également commentée ci-après"></a><br>Par Original téléversé par <a href="https://fr.wikipedia.org/wiki/User:Anarkman" class="extiw" title="fr:User:Anarkman">Anarkman</a> sur <a href="https://fr.wikipedia.org/wiki/" class="extiw" title="fr:">Wikipedia français</a> — Transféré de&nbsp;<span class="plainlinks"><a class="external text" href="//fr.wikipedia.org">fr.wikipedia</a></span>&nbsp;à Commons&nbsp;par&nbsp;<a href="//commons.wikimedia.org/wiki/User:Bloody-libu" title="User:Bloody-libu">Bloody-libu</a>&nbsp;utilisant <a href="https://tools.wmflabs.org/commonshelper/" class="extiw" title="toollabs:commonshelper/">CommonsHelper</a>., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17218922">Lien</a></p>
+
+L'un de smembres du Camp kerbors a réalisé des cordellettes en orties, d'autres l'on cuisiné....
+
+Ce qui suit est extrait de [Wikipédia](https://fr.wikipedia.org/wiki/Ortie#Utilisation_alimentaire)
+
+**Utilisation alimentaire**
+
+Les orties sont comestibles. Elles sont excellentes en soupe, soufflés ou en remplacement des épinards, y compris en pizzas.
+Utilisation comme plante médicinale et sanitaire
+
+**Différentes propriétés médicinales et sanitaires sont reconnues ou alléguées**
+
+C’est un diurétique, soit une substance qui entraîne une augmentation de la sécrétion urinaire dont l’action concerne l'hypertension artérielle, l'insuffisance cardiaque, certains œdèmes, l'hypertension portale ou l'hyperkaliémie.
+
+En cataplasme, associée à l’argile verte, elle agit contre les douleurs de l'arthrite et des rhumatismes.
+
+Traitées par lyophilisation, les feuilles peuvent être utilisées pour combattre le rhume des foins.
+
+Absorbée, la racine séchée soulage la miction en cas d'inflammation bénigne de la prostate.
+
+Appliquée en lotion, elle lutte contre l'acné.
+
+En bain de bouche, elle se révèle efficace contre les infections : aphtes, gingivite, angine.
+
+Chez la femme enceinte, elle favorise la stimulation de la production du lait maternel.
+
+Naturellement riche en vitamines A, B et C, elle est également fortement minéralisée en fer, calcium, magnésium, potassium et phosphore.
+
+Le mode de fécondation de l'ortie femelle par l'ortie mâle la rend allergisante par le pollen (cf. Caractéristiques générales), mais par sa consommation, elle possède des vertus anti-allergique.
+
+En résumé, "L'ortie est diurétique, dépurative, anti-rhumatismale, anti-inflammatoire, antalgique, antimicrobienne, anti-ulcéreuse, anti-anémique, hépatoprotectrice, antioxydante, hypoglycémiante, antiallergique, immunostimulante, hypotensive, tonique, galactogène." 
+
+
+### Cynoglosse
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Cynoglossum_officinale_S2.jpg#/media/File:Cynoglossum_officinale_S2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Cynoglossum_officinale_S2.jpg" alt="Description de cette image, également commentée ci-après" width="360" height="480"></a><br>Par <a href="https://de.wikipedia.org/wiki/Benutzer:Schnahacken" class="extiw" title="de:Benutzer:Schnahacken">Schnahacken</a> — selbst fotografiert von Schnahacken, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=935666">Lien</a></p>
+
+La cynoglosse, ou langue de chien, est une plante du genre Cynoglossum qui comprend plus de cinquante espèces de plantes vivaces, annuelles et bisannuelles.
+
+Ce sont des plantes rustiques qui poussent dans la majorité des régions tempérées du globe.
+
+On en fait la culture pour les fleurs qui ressemblent au myosotis, et la floraison prolongée qui dure de la fin du printemps au début de l'automne.
+
+La Cynoglosse officinale ou la langue de chien (Cynoglossum officinale) est une plante herbacée de la famille des Boraginacées.
+
+Les akènes de la cynoglosse officinale, munis densément d'épines terminées en hameçon, s'accrochent aux poils des animaux, mais également aux chaussures, chaussettes ou vêtements de voyageurs qui se sont balladés en un endroit où la plante en graines étaient présentes.
+
+**Recettes**
+
+Les fleurs peuvent êtres utilisées en infusion ou en salade.
+
+**Vertues**
+
+Elle était utilisée autrefois contre la diarrhée. Les feuilles sont parfois utilisées contre les brûlures (effet émollient). La plante contient des alcaloïdes : il est sage de ne pas trop consommer ces feuilles (celles-ci étaient consommées en salade).
+
+* Coques de Kerbors (descrition à faire)
+
+* Huitres de kerbors (descrition à faire)
+
+## Voir également
+
+* [Plantes comestibles Wikipédia](https://fr.wikipedia.org/wiki/Liste_des_plantes_%C3%A0_feuilles_comestibles)
 
 ## Conseils avec les plantes et fruits du bord de mer
 
