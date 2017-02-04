@@ -33,7 +33,7 @@ Le chou marin (Crambe maritima) encore appelé le crambé maritime ou chourbe
 
 > Les jeunes feuilles, cueillies début mai, toutes crispées, sont délicieuses crues, avec de la vinaigrette. Cuites, elles ont la saveur d’un chou tendre, en plus iodée. Les jeunes pétioles se cuisent comme les asperges.
 
-![](https://fr.wikipedia.org/wiki/Crambe_maritime#/media/File:Crambe_Maritima_Estonia.jpg)
+<p><a href="https://commons.wikimedia.org/wiki/File:Crambe_Maritima_Estonia.jpg#/media/File:Crambe_Maritima_Estonia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Crambe_Maritima_Estonia.jpg" alt="Crambe Maritima Estonia.jpg"></a><br>Par <a href="https://et.wikipedia.org/wiki/User:Siim" class="extiw" title="et:User:Siim">Siim</a> at <a class="external text" href="http://et.wikipedia.org">et.wikipedia</a>, <a href="http://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15128190">Lien</a></p>
 
 **En cuisine ?** Sauf les racines et la base ligneuse des tiges, tout se mange dans le crambé maritime : tiges, feuilles, pétioles, fruits verts.  En gastronomie, les jeunes tiges étiolées du printemps, qui se préparent à la manière des asperges, cuites pendant environ 12 minutes dans l'eau bouillante salée. Mais la période pendant laquelle on peut consommer ces tiges blanchies est brève. Alors que la feuilles cuites à l'eau bouillante penvent être consommée du printemps à septembre.
 
