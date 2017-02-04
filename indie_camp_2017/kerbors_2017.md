@@ -5,7 +5,9 @@ image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px
 ---
 
 
-# Principes d'organisation frugales mis en oeuvres lors du Summercamp
+# Principes d'organisation frugales mis en oeuvres lors d'un Indie Camp
+
+Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://medium.com/we-are-biomers/concevoir-et-presque-non-organiser-un-summer-camp-79ae19947e08#.v3eo4hfqf)
 
 ## Less is more
 
@@ -17,21 +19,21 @@ image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px
 * Il n'y a pas vraiment d'organisateurs en chef
 * Chaque participants peut porter une responsabilité collective si cela lui convient
 
-## Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre particpants n'a pas été objectée
+## Participer
 
 * DIY :
  * tu t'organises, sans te reposer sur les non-organisateurs.
  * tu honores la [loi des deux pieds](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert#M.C3.A9thode).
  * tu sais que les personnes présentes sont les bonnes
 * Les parcipants viennent lors qu'ils le peuvent, ils restent le temps qu'ils souhatent
-* Les paricipants ne viennent pas le smains vides en fonction de leurs possibilités et de leurs projets
+* Les paricipants ne viennent pas les mains vides en fonction de leurs possibilités et de leurs projets
 * Le regime alimentaire de chacun est respecté et considéré avant l'ouverture du camp
-* Ce qui ressort de ce summer camp sont les fruits des jardins communs cultivés par les parties prenantes
+* Ce qui ressort de l'indie camp sont les fruits des jardins communs cultivés par les parties prenantes
 
 Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
 
 
-# #SummerCamp 2016 Carnet de bord
+#### Indie Camp 2016 Carnet de bord
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1457084494142_8a87609548897e9286d4001e884bc950.jpg)
 
@@ -55,9 +57,11 @@ _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à
 *   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prévues pour le séjour. 
 *   Remplir le [sondage](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) sur les contraintes alimentaires des participant.e.s.
 *   Relire / compléter / annoter le [budget](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) (prévisionnel) du summercamp.
-*   Lieu et horaire de RDV pour le 3/08. 1ers campers & adresse du lieu
+*   Lieu et horaire de RDV pour le 1/08. 1ers campers & adresse du lieu
 
-Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonnées 48.83632, -3.19056 /
+_Pour informations utiliser ISSUES github de ce dépot ou xcoadic@protonmail.com_
+
+Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonnées 48.83632, -3.19056 
 
 [](http://osm.org/go/erOfjzIp)http://osm.org/go/erOfjzIp[ ](http://osm.org/go/erOfjzIptél)/ Tel Michèle 06 37 39 26 53 (par sms)
 
@@ -97,13 +101,15 @@ _A compléter_
 
 #### Nourriture et boissons
 
+Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre particpants n'a pas été object
+
 *   6 € / jour / pers. me semble un minimum viable pour la nourriture
 *   Voir 7 euros mais volonté que le prix n'empêche pas de venir.
 
 #### Gestion du budget du camp (en Bretagne)
 
 [ICI](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) 
-* La mer peut nous fournir innombrables ressources (coques, moules, poisson...)
+* La mer peut nous fournir innombrables ressources (coques, moules, poisson...) cf: documentation du camp 2016
 * Penser à la facture des fluides (électricité, eau..)
 * Sondage concernant les boissons pour le séjour : [ICI](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform) 
 * Sondage sur les contraintes alimentaires des participants :[ ICI](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) 
