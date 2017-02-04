@@ -1,6 +1,6 @@
 ---
 title: Faites partie du Indie Camp 2017 à Kerbors
-description: Indie Camp du 1 au 15 août 2016 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation, Learning by Doing. Organisations et Retours d'expériences et de pratiques qui ont eu lieu de différents Indie Camps. Makers, Hackers, Ingenious People, Ecologists, Philosophers
+description: Indie Camp du 1 au 15 août 2017 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation, Learning by Doing. Organisations et Retours d'expériences et de pratiques qui ont eu lieu de différents Indie Camps. Makers, Hackers, Ingenious People, Ecologists, Philosophers
 image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px-SummerCamp2016Kerbors.jpeg
 ---
 
@@ -37,7 +37,12 @@ Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/
 
 *   Photo de Nicolas Loubet en licence CC-BY-NC-SA (prise sur le MYNEcamp 2015). Source : [Pinterest](https://fr.pinterest.com/pin/188729040611270601/). 
 
-Carnet de bord de  l'[Indie Camp 2016](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE eco Hack Lab, DAISEE, Le Biome Hack Lab, Inventaire.io, Digital Athanor...
+Carnet de bord de  l'[Indie Camp 2016](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)' - 4 au 15/08 à KerBors. 
+
+
+Indie Camp co-conçu par / pour :
+
+* Cellabz, Explore , Multibao, La M[Y]NE eco Hack Lab, DAISEE, Le Biome Hack Lab, Inventaire.io, Digital Athanor...
 
 _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous porposer en ISSUES sur le dépot github_
 
