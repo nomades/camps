@@ -8,7 +8,7 @@ image_url: https://github.com/multibao/contributions/blob/master/media/ROV-compl
 
 # Réparation d'un OpenROV
 
-Article originellement publié sur [www.hack-your-brain.com][9], je le republie ici pour partager l'expérience aux autres participants du SummerCamp et toute autre personne qui pourrait être intéressée.
+Article originellement publié sur www.hack-your-brain.com, je le republie ici pour partager l'expérience aux autres participants du SummerCamp et toute autre personne qui pourrait être intéressée, Fanrçois Dupayrat.
 
 _There is a summary in English at the end in case you just want to repair your ROV and be on your way._
 
