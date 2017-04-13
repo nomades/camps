@@ -12,7 +12,8 @@ Article originellement publié sur [www.hack-your-brain.com][9], je le republie 
 
 _There is a summary in English at the end in case you just want to repair your ROV and be on your way._
 
-![Face avant du ROV][1] 
+Face avant du ROV
+![](https://framapic.org/0otFGnFrkbfa/IPdydbDnXxIX)
 
 Actuellement au SummerCamp en Bretagne, Manu a ramené un [OpenROV][2] qui ne marchait plus, à réparer.
 C’était pas gagné, des Makers de Pontivy c’étaient déjà penché dessus pendant 2 jours sans arriver à trouver la cause de la panne. ( [Historique des Tests decet Open ROV](https://explore.hackpad.com/OceanisOpen-Tests-et-amlioration-de-lOpenROV-Explore-p4Y4dhu0uVt) )
@@ -27,17 +28,20 @@ Premier enjeu de taille : je n'y connais absolument rien à comment est fabriqu�
 
 ## Suspect n°1 : les piles 
 
-![Batteries du moteur](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/batteries-moteurs.jpg)
+Batteries du moteur
+![](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/batteries-moteurs.jpg)
 
 En demandant, elles étaient chargées, et de toute façon ça ne sert à priori qu'à alimenter les moteurs, pas les cartes (dont l'alimentation passe par le cable relié au PC), donc ça ne peut pas être la cause de la panne. 
 
 ## Ouverture du ROV 
 
-![ROV ouvert](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/tube-ouvert.jpg)
+ROV ouvert
+![](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/tube-ouvert.jpg)
 
 Donc on a ouvert le corps de l'OpenROV. Là, je vois une BeagleBone, qui a l'air d'être alimentée par les PINs, et est reliée à un Ethernet)
 
-![BeagleBone](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/beaglebone.jpg)
+BeagleBone
+![](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/beaglebone.jpg)
 
 Ni une ni deux, on enlève la BeagleBone, on la branche direct en Ethernet (au lieu de passer par l'Ethernet du ROV), avec une alimentation USB. Et là, première bonne surprise : l'interface charge, ce qui montre que le "cerveau" du ROV est fonctionnel". 
 
@@ -59,8 +63,10 @@ Les LEDs du boitier confirment nos doutes : la LED Power est allumée quand on b
 
 ## Le regain d'espoir 
 
-![Tenda HomePLug](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/Tenda-HomePlug.jpg)
-![bouton tenda ROV](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/bouton-tenda-ROV.jpg)
+Tenda HomePLug
+![](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/Tenda-HomePlug.jpg)
+bouton tenda ROV
+![](https://github.com/LeBiome/camps/blob/master/indie_camp_kerbors_2016/reparation_openrov/bouton-tenda-ROV.jpg)
 
 Après quelques recherches, il se trouve que les 2 modules Tenda doivent être appairés. Autant tenter le coup : on appuie pendant une seconde sur le bouton des 2 modules à la fois, avec le BeagleBone débranché. Et là, la joie : la LED HomePlug Connect s'allume. 
 
@@ -72,15 +78,8 @@ To solve the problem, you need to disassemble the OpenRov tube to reach the othe
 
 When it's done, put the BeagleBone back on, test that everything works correctly, then re-assemble your OpenROV.
 
-[1]: reparation_openrov/ROV-complet-face.jpg
-[2]: http://www.openrov.com/
-[3]: reparation_openrov/batteries-moteurs.jpg
-[4]: reparation_openrov/tube-ouvert.jpg
-[5]: reparation_openrov/beaglebone.jpg
-[6]: reparation_openrov/topside-interface-board.jpg
-[7]: reparation_openrov/Tenda-HomePlug.jpg
-[8]: reparation_openrov/bouton-tenda-ROV.jpg
-[9]: http://www.hack-your-brain.com/reparation-dun-openrov/
+
+* http://www.hack-your-brain.com/reparation-dun-openrov/
 
 ## Video de contexte de travail
 
