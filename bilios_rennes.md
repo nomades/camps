@@ -1,5 +1,5 @@
 ---
-title: Bilios Camps Rennes 2014
+title: Bilios Camps Rennes 2016
 description: biomimicry summit libre et open source
 image_url: https://framapic.org/EMAYLtaUvFSV/FsRx2FOERVTq.jpg
 ---
