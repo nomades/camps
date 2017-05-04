@@ -9,7 +9,8 @@ image_url: http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png
 Ceci est un fork d'une [édition précédente](https://github.com/LeBiome/camps/tree/master/indie_camp_kerbors_2016)
 ![](https://framapic.org/RypxRwG3WOmD/6iTid2Z1Zt1m)
 
-<a href="https://www.flickr.com/photos/allans/29364096220/">camerashake</a> via <a href="https://visualhunt.com/re/ddf9a1">Visualhunt.com</a> / <a href="http://creativecommons.org/licenses/by-sa/2.0/"> CC BY-SA</a>
+![](https://farm9.staticflickr.com/8271/29364096220_50eef3a474_z.jpg)
+_amerashake CC BY-SA - Nevez Coast_
 
 Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nenvez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, ...
 
