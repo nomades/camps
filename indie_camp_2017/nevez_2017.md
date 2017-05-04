@@ -1,7 +1,7 @@
 ---
-title: Découvrez la documentation du Summercamp 2016 à Kerbors
-description: Summercamp du 4 au 15 août 2016 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation.
-image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px-SummerCamp2016Kerbors.jpeg
+title: CoOrganisation IndieCamp 2017 à Nevez
+description: IndieCamp du 1 au 10 août 2017 à Nevez (Bretagne, finistère sud). Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
+image_url: http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png
 ---
 
 # [#IndieCamp 2017] Carnet de bord Nevez
@@ -13,13 +13,17 @@ Ceci est un fork d'une [édition précédente](https://github.com/LeBiome/camps/
 
 Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nenvez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, ...
 
+Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
+
+les textes entre { } sont des inivations à contribuer a cette fiches par pull request ou issues dans cette organisation collective.
+
 # Principes d'organisation frugales mis en oeuvres lors du Summercamp
 
 ## Less is more
 
 * Les envies et les possibles ont été sourcés en amont par visioconférence et écrits en ligne pour mettre toute personne intéressée au même niveau d'information qu les autres participants.
 
-## Un lieu atypique, Nevez en ne, relié a un ecoHackLab à Lyon, La M[Y]NE
+## Un lieu atypique, Nevez en Bretagne
 
 * Ceux qui seront là feront l’événement
 * Il n'y a pas vraiment d'organisateurs en chef
@@ -36,17 +40,13 @@ Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 201
 * Le regime alimentaire de chacun est respecté et considéré avant l'ouverture du camp
 * Ce qui ressort de ce summer camp sont les fruits des jardins communs cultivés par les parties prenantes
 
-Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
-
-## Summer Camp kerbors : J1 open rov 
-
 ## Dates et Conditions
 
 Du 1er au 10 juillet 2017 en Bretagne à 15 minutes de la mer
 
 Tu peux venir quand tu peux / quand tu veux, mais tu préviens.
 
-Budget approximatif collectif (déjà éprouvé l'année dernière) 6,50 € / jour / personne. C'est une caisse commune donc le montant total des fais de nourriture et boissons est divisé par le nombre de personne  jour d'occupation.
+Budget approximatif collectif (déjà éprouvé l'année dernière) 6,50 € / jour / personne. C'est une caisse commune donc le montant total des fais de nourriture et boissons est divisé par le nombre de personne  jour d'occupation. (Voir [se nourrir de l'existant](http://www.multibao.org/#nomades/camps/blob/master/indie_camp_kerbors_2016/manger_l_existant.md))
 
 Toile de tente, duvet, hamac, tente dans les arbres... Bref, c'est un IndieCamp
 
@@ -60,28 +60,61 @@ Il y a internet à dispostion et des outils.
 
 ## Organisation
 
-Limitée à 20 places
+Limitée à 20 places max par jour
 
 * S'inscire
-  * Par anoter son prénom, ou pseudo, ou nom prénom dans la liste ci-dessous par pull request dans github
-  * Si t'as peur du numérique envoie un mail : lebiome.hacklab [arobase] protonmail [dot] com
-  * Si t'as peur de toute cette histoire
+  * Par anoter son prénom, ou pseudo, ou nom prénom dans la liste ci-dessous par pull request dans github avec tes dates
+  * Si t'as peur du numérique envoie un mail : lebiome.hacklab [arobase] protonmail [dot] com avec tes dates
+  * Si t'as peur de toute cette histoire, viens discuter avec les co-organisateurs qui viennent de partout en France : Rennes, Nantes, Lyon, Treffendel, Montpellier, Saint-Étienne, Concarneau, Rotterdam, Strasbourg, Paris, Mulhouse, 
 * Lieu et horaire de RDV pour le 1/07
   * adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
   * Horaires: dès 9h30 et toute la journée et soirée
   * Open pendant les jours du Camp
 
-
-
-
-![](https://framapic.org/vGptG2DMS7xv/3o6YnXFm8Blz)
+![](https://framapic.org/qoGvYKxyqMkV/bq3WFzXtNN09.jpg "Atelier Z Nevez")
 
 ### Thématiques à explorer
 
-* Toilettes sèches à construire
-* 
+{Si tu veux en rajouter tu peux, mais tu en portes la responsabilité de le faire}
+
+* Les modéles des Tiers-lieux ruraux: modéle de vie, économie
+* Retour d'expérience de la Biennale internationale du design de St Etienne: [Design moi un tier-lieu et fork the world](http://movilab.org/index.php?title=Portail:Dm1TL/triptyque)
+* Experimentation sur terrain de daisee.org
+* OpenRov Realoded
+* [Build Your Own Device For InfraTerrestrial](https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project)
+* Arduino, raspberry
+* Langage informatique makdown, solidity
+* git, github, gitlab
+* Edithon multibao et movilab et autres wikis
+* Le biomimétisme est-il une éthique ? groupe de réflexio et recherche
 
 ### Contrepartie à se Camp
+Les campers devront
 * Cosntuire des toilettes sèches (comme en 2016 à Kerbors ;-) 
-*
+* Travailler à douche extérieur (solaire, eau de pluie en possibilité)
+
 ### Logistique
+
+{tu mets tes intiales et ce que tu amènes et/ou tu rajoutes ce que tu as besoins}
+
+#### Besoins en matériel
+
+*   Musique / son - j'apporte une bonne enceinte active (TW) 
+*   Barbecue 
+*   Charbon 
+*   Rallonges et multi-prises - j'en apporte 2 
+*   couverts et plats , planches à découper... 
+*   tente et matelas
+*   Cordages, bâches, voiles, hamacs
+*   Plans et estimation des matériaux pour WC sec (récipients fournis, cabane et composteur à construire)
+*   amplificateur wifi
+
+### Matériel de travail
+
+*   Tente, duvet, matelas / participant si vous voulez dormir 
+*   Vis inox et visseuse pour construction toilette sèche
+*   Prévoir un accès internet
+*   Quelques arduino, Pi
+*   Outils de bricolage 
+*   Fer à souder, multimètre, 
+*   Cannes à pêche
