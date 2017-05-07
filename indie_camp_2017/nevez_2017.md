@@ -12,7 +12,7 @@ Ceci est un fork d'une [édition précédente](https://github.com/LeBiome/camps/
 ![](https://farm9.staticflickr.com/8271/29364096220_50eef3a474_z.jpg)
 _amerashake CC BY-SA - Nevez Coast_
 
-Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nenvez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, ...
+Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nenvez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, Eutopies ...
 
 Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
 
@@ -29,7 +29,7 @@ les textes entre { } sont des inivations à contribuer a cette fiches par pull r
 * Ceux qui seront là feront l’événement
 * Il n'y a pas vraiment d'organisateurs en chef
 * Chaque participants peut porter une responsabilité collective si cela lui convient
-![](https://framapic.org/B3rEJlOn65OY/XkFSFJdngmr6)
+![](https://framapic.org/DULzKVKf58B8/7NQ6PJULyac6)
 
 ## Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre particpants n'a pas été objectée
 
@@ -72,8 +72,7 @@ Limitée à 20 places max par jour
   * adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
   * Horaires: dès 9h30 et toute la journée et soirée
   * Open pendant les jours du Camp
-
-![](https://framapic.org/qoGvYKxyqMkV/bq3WFzXtNN09.jpg "Atelier Z Nevez")
+![](https://framapic.org/qoGvYKxyqMkV/bq3WFzXtNN09.jpg)
 
 ### Thématiques à explorer
 
