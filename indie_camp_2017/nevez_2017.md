@@ -1,6 +1,6 @@
 ---
 title: CoOrganisation IndieCamp 2017 à Nevez
-description: IndieCamp du 1 au 10 août 2017 à Nevez (Bretagne, finistère sud). Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
+description: IndieCamp du 1 au 10 juillet 2017 à Nevez (Bretagne, finistère sud). Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
 image_url: http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png
 ---
 
@@ -29,6 +29,7 @@ les textes entre { } sont des inivations à contribuer a cette fiches par pull r
 * Ceux qui seront là feront l’événement
 * Il n'y a pas vraiment d'organisateurs en chef
 * Chaque participants peut porter une responsabilité collective si cela lui convient
+![](https://framapic.org/B3rEJlOn65OY/XkFSFJdngmr6)
 
 ## Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre particpants n'a pas été objectée
 
@@ -43,7 +44,7 @@ les textes entre { } sont des inivations à contribuer a cette fiches par pull r
 
 ## Dates et Conditions
 
-Du 1er au 10 juillet 2017 en Bretagne à 15 minutes de la mer
+Du 1er au 10 juillet 2017 en Bretagne à 15 minutes de la mer - Accueilli par l'Atelier Z
 
 Tu peux venir quand tu peux / quand tu veux, mais tu préviens.
 
