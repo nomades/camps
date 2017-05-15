@@ -69,9 +69,9 @@ Limitée à 20 places max par jour
   * Si t'as peur du numérique envoie un mail : lebiome.hacklab [arobase] protonmail [dot] com avec tes dates
   * Si t'as peur de toute cette histoire, viens discuter avec les co-organisateurs qui viennent de partout en France : Rennes, Nantes, Lyon, Treffendel, Montpellier, Saint-Étienne, Concarneau, Rotterdam, Strasbourg, Paris, Mulhouse, 
 * Inscrits :
-  * Xavier Coadic, Le biome Hack Lab, multibao, movilab
-  * Xavier Pinasseau, artisan maker [Gov Kemper](https://www.facebook.com/govkemper.fr)
-  * Cédric, Atelier Z et Bretagne Transition
+  * Xavier Coadic, Le biome Hack Lab, multibao, movilab. du 1 au 10 juillet
+  * Xavier Pinasseau, artisan maker [Gov Kemper](https://www.facebook.com/govkemper.fr). Du 1 au 10 Juillet
+  * Cédric, Atelier Z et Bretagne Transition. Du 1 au 10 juillet
 * Lieu et horaire de RDV pour le 1/07
   * adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
   * Horaires: dès 9h30 et toute la journée et soirée
