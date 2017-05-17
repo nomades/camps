@@ -11,11 +11,11 @@ Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://mediu
 
 ## Less is more
 
-* Les envies et les possibles ont été sourcés en amont par visioconférence et écrits en ligne pour mettre toute personne intéressée au même niveau d'information que les autres participants.
+* Les envies et les possibles ont été sourcés en amont par visioconférence et écrits en ligne pour mettre toute personne intéressée au même niveau d'information qu les autres participants.
 
 ## Un lieu atypique, Kerbors en Bretagne, relié a un ecoHackLab à Lyon, La M[Y]NE
 
-* Ceux qui seront là feront l'événement
+* Ceux qui seront là feront l’événement
 * Il n'y a pas vraiment d'organisateurs en chef
 * Chaque participants peut porter une responsabilité collective si cela lui convient
 
@@ -25,9 +25,9 @@ Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://mediu
  * tu t'organises, sans te reposer sur les non-organisateurs.
  * tu honores la [loi des deux pieds](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert#M.C3.A9thode).
  * tu sais que les personnes présentes sont les bonnes
-* Les participants viennent lors qu'ils le peuvent, ils restent le temps qu'ils souhatent
-* Les participants ne viennent pas les mains vides en fonction de leurs possibilités et de leurs projets
-* Le régime alimentaire de chacun est respecté et considéré avant l'ouverture du camp
+* Les parcipants viennent lors qu'ils le peuvent, ils restent le temps qu'ils souhatent
+* Les paricipants ne viennent pas les mains vides en fonction de leurs possibilités et de leurs projets
+* Le regime alimentaire de chacun est respecté et considéré avant l'ouverture du camp
 * Ce qui ressort de l'indie camp sont les fruits des jardins communs cultivés par les parties prenantes
 
 Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
@@ -101,7 +101,7 @@ _A compléter_
 
 #### Nourriture et boissons
 
-Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre participants n'a pas été objectée
+Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité financière entre particpants n'a pas été object
 
 *   6 € / jour / pers. me semble un minimum viable pour la nourriture
 *   Voir 7 euros mais volonté que le prix n'empêche pas de venir.
@@ -139,7 +139,7 @@ Tarif par jour est arbitrairement fixé à un seuil minimal. La solidarité fina
 *   Prévoir un accès internet
 *   Quelques arduino, Pi
 *   Outils de bricolage 
-*   Fer à souder, multimetre, 
+*   Fer à souder, multimètre, 
 *   Cannes à pêche
 
-_Pensez à compléter la liste si vous venez équipés_
+_Penser à completer la liste si vous venez équipés_
