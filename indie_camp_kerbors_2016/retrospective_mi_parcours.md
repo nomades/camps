@@ -4,6 +4,8 @@ description: Session collaborative qui pose un espace de partage au sein d'un gr
 image_url: https://framapic.org/oaoNavOTNv9b/nyPh9AKT48RV.jpg
 ---
 
+# Animer un rétrospective à mi parcours
+
 Inspiré de la méthodologie [UT7](http://ut7.fr/blog/2015/11/18/animer-vos-retrospectives-avec-le-conseil.html). L'approche UT7 provient elle même d'un format inventé par Virginia Satir, une psychotérapeute familiale, format qu’elle appelle en anglais « Temperature Reading ».
 
 **Objectifs** : 
