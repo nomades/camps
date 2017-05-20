@@ -74,7 +74,8 @@ Limitée à 20 places max par jour
   * Cédric, Atelier Z et Bretagne Transition. Du 1 au 10 juillet.
   * Rieul Techer, La MYNE / DAISEE. Du 3 au 7 juillet sûr, à pousser jusqu'au 10 si possible. | Basé à Lyon ne pas hésiter à venir en parler si vous êtes intéressé.e.s.
   * Emmanuel Laurent, La MYNE / DAISEE / Energie. Du 1 au 10 juillet. 
-  * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.  
+  * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
+  * Théo Vital (Biomer) et Marine, du Vendredi 7 soir au Dimanche 9. **Covoit' possible de Rennes.**
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
   * Horaires: dès 9h30 et toute la journée et soirée
