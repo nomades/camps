@@ -12,7 +12,7 @@ Ceci est un fork d'une [édition précédente](https://github.com/LeBiome/camps/
 ![](https://farm9.staticflickr.com/8271/29364096220_50eef3a474_z.jpg)
 _amerashake CC BY-SA - Nevez Coast_
 
-Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nenvez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, Eutopies ...
+Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 2017 à KerBors, Nevez et Rennes. Co-conçu par / pour Cellabz, Explore , Multibao, La M[Y]NE , DAISEE, Le Biome, LabOSe, Inventaire.io, Bretagne Transition, Movilab, Eutopies ...
 
 Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
 
@@ -44,7 +44,7 @@ Les textes entre { } sont des invitations à contribuer à cette fiche par pull 
 
 ## Dates et Conditions
 
-Du 1er au 10 juillet 2017 en Bretagne à 15 minutes de la mer - Accueilli par l'Atelier Z
+Du 1er au 10 juillet 2017 en Bretagne à 15 minutes de la mer - Accueilli par l'Atelier Z, 8 chemin de Kervic, 29920 Névez
 
 Tu peux venir quand tu peux / quand tu veux, mais tu préviens.
 
@@ -77,7 +77,7 @@ Limitée à 20 places max par jour
   * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
   * Théo Vital (Biomer) et Marine, du Vendredi 7 soir au Dimanche 9. **Covoit' possible de Rennes.**
 * Lieu et horaire de RDV pour le 1/07
-  * Adresse du lieu du camp : 8 chemin de kervic , 22610 Nevez. Coordonnées  46.22475 , 2.0517
+  * Adresse du lieu du camp : 8 chemin de kervic ,29920 Névez, 47.8319385,-3.801687,17
   * Horaires: dès 9h30 et toute la journée et soirée
   * Open pendant les jours du Camp
 ![](https://framapic.org/qoGvYKxyqMkV/bq3WFzXtNN09.jpg)
