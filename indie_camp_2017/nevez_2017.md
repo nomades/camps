@@ -58,7 +58,7 @@ Il y a internet à dispostion et des outils.
 
 ## Participant.e.s
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1stPzm521rs" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/1stPzm521rs/0.jpg)](https://www.youtube.com/watch?v=1stPzm521rs)
 
 ## Organisation
 
@@ -75,7 +75,7 @@ Limitée à 20 places max par jour
   * Rieul Techer, La MYNE / DAISEE. Du 3 au 7 juillet sûr, à pousser jusqu'au 10 si possible. | Basé à Lyon ne pas hésiter à venir en parler si vous êtes intéressé.e.s.
   * Emmanuel Laurent, La MYNE / DAISEE / Energie. Du 1 au 10 juillet. 
   * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
-  * Théo Vital (Biomer) et Marine, du Vendredi 7 soir au Dimanche 9. **Covoit' possible de Rennes.**
+  * Théo Vital, Biomer et Marine, du Vendredi 30 soir au Dimanche 2. Et peut être le week end du 7 au 9 aussi **Covoit' possible de Rennes.**
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
   * Horaires: dès 9h30 et toute la journée et soirée
@@ -132,3 +132,4 @@ Les campers devront
 ### Nice to have
 *   slack line (RT)
 *   matériel d'escalade (RT - on ne sait jamais)
+*   Vieux téléscope (Théo - à vérifier s'il fonctionne)
