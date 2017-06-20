@@ -52,6 +52,9 @@ _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à
 
 ![](http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png)
 
+* Michèle Turbin, du 1 au 15 août, Architecture Verte / [Eutopies](http://eutopies.org/)
+* Xavier Coadic, du 1 au 15 août, Le Biome HacLab, Open BioFabrics, contributeurs Multibao.org et movilab.org.
+
 ## Organisation
 
 *   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prévues pour le séjour. 
