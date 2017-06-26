@@ -73,7 +73,7 @@ Limitée à 20 places max par jour
   * Xavier Coadic, Le biome Hack Lab, multibao, movilab. du 1 au 10 juillet.
   * Xavier Pinasseau, artisan maker [Gov Kemper](https://www.facebook.com/govkemper.fr). Du 1 au 10 Juillet.
   * Cédric, Atelier Z et Bretagne Transition. Du 1 au 10 juillet.
-  * Rieul Techer, La MYNE / DAISEE. Du 3 au 7 juillet sûr, à pousser jusqu'au 10 si possible. | Basé à Lyon ne pas hésiter à venir en parler si vous êtes intéressé.e.s.
+  * Rieul Techer, La MYNE / DAISEE. Du 2 au 6 juillet sûr, à pousser jusqu'au 10 si possible. | Basé à Lyon ne pas hésiter à venir en parler si vous êtes intéressé.e.s.
   * Emmanuel Mayoud, date à préciser...
   * Eammnuel Poisson Quinton, Fondation Explore Concanrneau, en passage régulier
   * Clément, LowTech Lab, Concarneau, dates à définir
@@ -81,6 +81,7 @@ Limitée à 20 places max par jour
   * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
   * Théo Vital, Biomer et Marine, du Vendredi 30 soir au Dimanche 2. Et peut être le week end du 7 au 9 aussi **Covoit' possible de Rennes.**
   * Aurélien Juan Marty, Movilab.org / Open Factory St Etienne / Medi@Lab, du 1 au au 10 depuis St Etienne
+  * François, Développeur,Président de KonkArLab, le fablab de Concarneau, passage en intermitence en "bon voisin".
   
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
