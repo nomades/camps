@@ -82,6 +82,7 @@ Limitée à 20 places max par jour
   * Théo Vital, Biomer et Marine, du Vendredi 30 soir au Dimanche 2. Et peut être le week end du 7 au 9 aussi **Covoit' possible de Rennes.**
   * Aurélien Juan Marty, Movilab.org / Open Factory St Etienne / Medi@Lab, du 1 au au 10 depuis St Etienne
   * François, Développeur,Président de KonkArLab, le fablab de Concarneau, passage en intermitence en "bon voisin".
+  * Victor Didelot, Makery.info, du 1 au 7 juillet.
   
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
