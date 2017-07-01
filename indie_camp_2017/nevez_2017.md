@@ -83,6 +83,8 @@ Limitée à 20 places max par jour
   * Aurélien Juan Marty, Movilab.org / Open Factory St Etienne / Medi@Lab, du 1 au au 10 depuis St Etienne
   * François, Développeur,Président de KonkArLab, le fablab de Concarneau, passage en intermitence en "bon voisin".
   * Victor Didelot, Makery.info, du 3 au 6 juillet.
+  * Sébastien Kurt, Mainstenant.org , du 6 au 8 Juillet. **Cherche covoit'**
+  * Alexandre Lejeune, Le Playful (petit laboratoire du jeu) , du 6 au 8 Juillet **Cherche covoit'**
   
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
