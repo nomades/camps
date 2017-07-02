@@ -144,4 +144,3 @@ Les campers devront
 ### Nice to have
 *   slack line (RT)
 *   matériel d'escalade (RT - on ne sait jamais)
-*   Vieux téléscope (Théo - à vérifier s'il fonctionne)
