@@ -17,6 +17,8 @@ Carnet de bord des [IndieCamps](https://github.com/LeBiome/camps)' - 2016 et 201
 Pour les makers, philosophes, hackers, botanistes, voileux, nomades, bios, wikipediens et les curieux qui souhaitent s'initier et contribuer.
 
 Les textes entre { } sont des invitations à contribuer à cette fiche par pull request ou issues dans cette organisation collective.
+* [Lien du pad général pour le suivi jour par jour](https://hackmd.io/EYQwHAbAnCAMIFoBmBWYBGBAWAxunCYsAzFgjjhAOzEQa5Q5A===?view)
+
 
 # Principes d'organisation frugales mis en oeuvres lors du Summercamp
 
