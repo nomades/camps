@@ -87,6 +87,7 @@ Limitée à 20 places max par jour
   * Victor Didelot, Makery.info, du 3 au 6 juillet.
   * Sébastien Kurt, Mainstenant.org , du 6 au 8 Juillet. **Cherche covoit'**
   * Alexandre Lejeune, Le Playful (petit laboratoire du jeu) , du 6 au 8 Juillet **Cherche covoit'**
+  * Arthur Masson, developpeur, [Société Ouverte](https://hackmd.io/s/Hk1DXqcwg), du 4 au 7 juillet
   
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
@@ -108,6 +109,7 @@ Limitée à 20 places max par jour
 * git, github, gitlab
 * Edithon multibao et movilab et autres wikis
 * Le biomimétisme est-il une éthique ? groupe de réflexion et recherche
+* La [Société Ouverte](https://hackmd.io/s/Hk1DXqcwg) : une société basée sur la philosophie open source
 
 ### Contrepartie à se Camp
 Les campers devront
