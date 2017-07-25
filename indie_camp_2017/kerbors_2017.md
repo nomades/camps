@@ -33,7 +33,7 @@ Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://mediu
 Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
 
 
-**Indie Camp 2016 Carnet de bord**
+**Indie Camp 2017 Carnet de bord**
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.62368_1457084494142_8a87609548897e9286d4001e884bc950.jpg)
 
@@ -48,19 +48,9 @@ Indie Camp co-conçu par / pour :
 
 _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à vous proposer en ISSUES sur le dépot github pour vous engager sur ce Camp ou en proposer un autre_
 
-# Participant.e.s
-
-![](http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png)
-
-* Michèle Turbin, du 1 au 15 août, Architecture Verte / [Eutopies](http://eutopies.org/)
-* Xavier Coadic, du 1 au 15 août, Le Biome HacLab, Open BioFabrics, contributeurs Multibao.org et movilab.org.
-* Yohann Reverdy, Nantes, du 8 au 13 août, web dev 
 
 ## Organisation
 
-*   Remplir le [sondage](https://docs.google.com/forms/d/1ajXK5g2ZABNEu5uS4aebo-UGyRUy_0Oi5uiWVw2A4iE/viewform)  concernant les boissons prévues pour le séjour. 
-*   Remplir le [sondage](https://docs.google.com/forms/d/1LAzx6Xq3bG9rp_NRn4Q-PXiht_xRT6vI1nYQ5WvNVek/viewform) sur les contraintes alimentaires des participant.e.s.
-*   Relire / compléter / annoter le [budget](https://docs.google.com/spreadsheets/d/1nMY2ziEzQi8kptmyg3vIZqzTSqnBMsnr5FJXuPn1KL4/edit?usp=sharing) (prévisionnel) du summercamp.
 *   Lieu et horaire de RDV pour le 1/08. 1ers campers & adresse du lieu
 
 _Pour informations utiliser ISSUES github de ce dépôt ou xcoadic@protonmail.com_
