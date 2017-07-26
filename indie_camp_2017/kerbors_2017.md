@@ -53,7 +53,7 @@ _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à
 
 *   Lieu et horaire de RDV pour le 1/08. 1ers campers & adresse du lieu
 
-_Pour informations utiliser ISSUES github de ce dépôt ou xcoadic@protonmail.com_
+_Pour informations utiliser ISSUES github de ce dépôt ou xcoadic@protonmail.com. Pour inscritpion, cliquer sur modifier puis clique sur "**Pull Request**" et vérifier qu'elle est bien envoyée depuis votre compte github vers /LeBiome/camps/indie_camp_2017/kerbors_2017.md_
 
 Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonnées 48.83632, -3.19056 
 
@@ -62,6 +62,22 @@ Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonn�
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.594514_1469543819719_CoatLannec-carte1.png)
 
 ![](https://framapic.org/vGptG2DMS7xv/3o6YnXFm8Blz)
+
+### Présences confirmées
+
+* Michèle Turbin, du 1 au 15 août, Architecture Verte / [Eutopies](http://eutopies.org/)
+* Xavier Coadic, du 1 au 15 août, Le Biome HacLab, Open BioFabrics, contributeurs Multibao.org et movilab.org.
+* Yohann Reverdy, Nantes, du 8 au 13 août, web dev 
+* Camille Ladreyt, du 7 au 15 août, Mycélium UTC
+* Anna Giolito, du 7 au 15 août, Mycélium UTC
+* Thomas Wolff, les vigies.fr, multibao
+* Caroline Picton, auxiliaire de la petite enfance
+* Gérald Mannaerts, sciences marines participatives
+* Aurélien Marty, Movilab / Médialab
+* Christophe, roazhon ferme DIY Mushrooms et agriculture urbaine
+* Olivier Norvez, Le Biome,Open Bioblitz, AFB, du 1 au 5 août
+* Marianne Brunet, 9 au 15 août août
+* Anne-Cécile Gautier, Designer, du 1 au 2 Aaoût
 
 ### Thématiques à explorer
 
