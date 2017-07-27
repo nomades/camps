@@ -57,9 +57,9 @@ _Pour informations utiliser ISSUES github de ce dépôt ou xcoadic@protonmail.co
 
 Lieu du camp Chez Michèle Le Gall Turbin, Coat Lannec, 22610 Kerbors. Coordonnées 48.83632, -3.19056 
 
-[](http://osm.org/go/erOfjzIp)http://osm.org/go/erOfjzIp[ ](http://osm.org/go/erOfjzIptél)/ Tel Michèle 06 37 39 26 53 (par sms)
+Tel Michèle 06 37 39 26 53 (par sms)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_LxNyipOhh0I_p.594514_1469543819719_CoatLannec-carte1.png)
+![](https://framapic.org/eJ0YQylc1UrU/6EnpCkORkVgv)
 
 ![](https://framapic.org/vGptG2DMS7xv/3o6YnXFm8Blz)
 
