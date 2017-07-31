@@ -78,6 +78,7 @@ Tel Michèle 06 37 39 26 53 (par sms)
 * Olivier Norvez, Le Biome,Open Bioblitz, AFB, du 1 au 5 août
 * Marianne Brunet, 9 au 15 août août
 * Anne-Cécile Gautier, Designer, du 1 au 2 Aaoût
+* Romain Heller, 1 au 4 août, [Covoiturage depuis Brest](https://github.com/LeBiome/camps/issues/20)
 
 ### Thématiques à explorer
 
