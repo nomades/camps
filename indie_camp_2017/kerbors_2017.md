@@ -81,6 +81,7 @@ Tel Michèle 06 37 39 26 53 (par sms)
 * Romain Heller, 1 au 4 août, [Covoiturage depuis Brest](https://github.com/LeBiome/camps/issues/20)
 * Arthur Masson, du 5 au 7 août environ, [Indiens dans la ville](http://idlv.co)
 * Quentin Orhant, du 5 au 7 août environ, [Indiens dans la ville](http://idlv.co)
+* Emmanuel Laurent, du 8 au 15 aout environ, énergie & makers, biogaz, micro-générateur d'électricité (covoiturage envisageable depuis région parisienne sud ou sur le trajet)
 
 ### Thématiques à explorer
 
