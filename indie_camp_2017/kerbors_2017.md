@@ -67,7 +67,7 @@ Tel Michèle 06 37 39 26 53 (par sms)
 
 * Michèle Turbin, du 1 au 15 août, Architecture Verte / [Eutopies](http://eutopies.org/)
 * Xavier Coadic, du 1 au 15 août, Le Biome HacLab, Open BioFabrics, contributeurs Multibao.org et movilab.org.
-* Yohann Reverdy, Nantes, du 8 au 13 août, web dev 
+* Yohann Reverdy, Nantes, du 10 au 13 août, web dev, covoiturage depuis Nantes possible 
 * Camille Ladreyt, du 7 au 15 août, Mycélium UTC
 * Anna Giolito, du 7 au 15 août, Mycélium UTC
 * Thomas Wolff, les vigies.fr, multibao
