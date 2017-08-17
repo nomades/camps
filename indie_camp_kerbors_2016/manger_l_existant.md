@@ -175,8 +175,16 @@ Les fleurs peuvent êtres utilisées en infusion ou en salade.
 
 Elle était utilisée autrefois contre la diarrhée. Les feuilles sont parfois utilisées contre les brûlures (effet émollient). La plante contient des alcaloïdes : il est sage de ne pas trop consommer ces feuilles (celles-ci étaient consommées en salade).
 
-* Coques de Kerbors (descrition à faire)
+### La fleur de capucine
 
+Cette plante ornementale et comestible est probablement un hybride originaire d'Amérique du Sud.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tropaeolum_majus.JPG/290px-Tropaeolum_majus.JPG)
+
+Le bout en pointe de la tige qui soutient la fleur est sucrée tandi que la fleur est épicée. Très bon cru à mettre dans une salade en accompagnement. La fleur jaune ne mange également. Après cueillette il faut la manger vite car la fleur fane rapidement.
+
+* Coques de Kerbors (descrition à faire)
+ 
 * Huitres de kerbors (descrition à faire)
 
 ## Voir également
