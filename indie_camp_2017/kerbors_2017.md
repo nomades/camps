@@ -7,6 +7,8 @@ image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px
 
 # Principes d'organisation frugales mis en œuvres lors d'un Indie Camp
 
++ [Le carnet de bord cu camp](https://hackmd.io/s/SJ60BmJvb#)
+
 Voir aussi : [Concevoir et presque non-organiser un indie camp…](https://medium.com/we-are-biomers/concevoir-et-presque-non-organiser-un-summer-camp-79ae19947e08#.v3eo4hfqf)
 
 ## Less is more
