@@ -1,3 +1,10 @@
+---
+title: Erlang, langage concurrentiel pour le monde réel
+description: découvrir un langage de programmation informatique
+image_url: https://framapic.org/YJK1ICPDaeM3/0RJ01Iptwpk1.jpg
+---
+
+
 # Erlang - Un langage concurrentiel pour le monde réel
 
 Le titre  de cette petite  fiche est  odacieux, mais en  quelque sorte
