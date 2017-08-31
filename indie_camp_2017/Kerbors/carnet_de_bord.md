@@ -1,4 +1,8 @@
-###### Tags: `IndieCamp` `Kerbors` `autonomie`
+---
+title: Carnet de bord del' IndieCamp 2017 à Névez
+description: déroulé journalier, personnes présentes, liens vers les documentations d'atelier
+image_url: 
+---
 
 # [IndieCamp à Kerbors](https://frama.link/indiecamp-kerbors-2017) (1-15 Août 2017)
 
@@ -59,44 +63,38 @@ Ce document est le **carnet de bord contributif** des participant.e.s à l'[Indi
 * Installation d'un point d'accès wifi 'IndieCamp' (galet)
 * Visite du *Paradis*, un terrain à aménager en permaculture
 
-#### <u>Narration</u>
+#### Narration
 
-:::info
-**La route est longue**
 
-Les premières gares à proximité sont à Lannion, Paimpol ou Guingamp. Pour les voitures, les points de rendez-vous sont fixés à Tréguier à quelques kilomètres. L'indiecampeur doit donc lever le pouce au bord de la route pour se faire conduire jusqu'à l'arrivée. Depuis Guingamp, j'ai pris 4 voitures différentes avant d'arriver sur la plage de l'Île à Poule. J'ai été surpris par la facilité avec laquelle j'ai été pris par mes différents co-voitureurs. Les petites routes de campagnes semblent offrir plus de convivialité que les grands axes autoroutiers. 
+> **La route est longue**
 
-*Auréli1* 
-:::
+>_Les premières gares à proximité sont à Lannion, Paimpol ou Guingamp. Pour les voitures, les points de rendez-vous sont fixés à Tréguier à quelques kilomètres. L'indiecampeur doit donc lever le pouce au bord de la route pour se faire conduire jusqu'à l'arrivée. Depuis Guingamp, j'ai pris 4 voitures différentes avant d'arriver sur la plage de l'Île à Poule. J'ai été surpris par la facilité avec laquelle j'ai été pris par mes différents co-voitureurs. Les petites routes de campagnes semblent offrir plus de convivialité que les grands axes autoroutiers._ **Auréli1**
 
-### <u>Mercredi 2 Août (J2)</u>
 
-#### <u>Présent.e.s</u>
+### Mercredi 2 Août (J2)
+
+#### Présent.e.
 + Michèle T.
 + Xavier C.
 + Aurélien M.
 + Rom1deTroyes
 + Jonathan
 
-#### <u>Activités</u>
+#### Activités
 * Discussion et initiation sur l'architecture bioclimatique
 * Rédcation du 2e chapitre du gitbook [BretagneLabTour 2015](https://xavcc.gitbooks.io/vivre-ensemble-faire-ensemble/content/)
 * Pêche à pied & récupération nourriture destinée au rebut
 * Mise en place d'un bac à compost à partir de souches d'arbre
 
-#### <u>Narration</u>
+#### Narration
 
-:::info 
-**La joie des chources**
+> **La joie des chources**
+_Les chources se sont les courses chourrées, la joyeuse contraction de deux mots. Nous avons remis le couvert, comme en juillet à Névez, nous avons fouillé les poubelles d'une superétte. La récolte fut bonne : une grande salade pour le soir, des cakes au chocolat pour le petit déjeunner. Je ne sais pas quoi pas penser face à cette... poubelle et tout ce gâchis...  Sommes-nous si riches, pour payer tant de dégats ? Sommes-nous si inconscient pour vivre ainsi ? Au fond, je me sens un peu plus libre, l'auto-stop et la glane ce sont des manières de vivre autrement. Ces actes, ces deux derniers jours ont débloqués quelque chose en moi, une peur en moins de faire et d'essayer. Il s'agit du dépassement d'un blocage social, la fierté d'être un looser aux yeux de la société. Sommes-nous si pauvres pour avoir tant la rage de gagner ?  Je pense notamment au travail [des Gars'Pilleurs.](https://www.facebook.com/lesgarspilleurs/)_ **Auréli1**
 
-Les chources se sont les courses chourrées, la joyeuse contraction de deux mots. Nous avons remis le couvert, comme en juillet à Névez, nous avons fouillé les poubelles d'une superétte. La récolte fut bonne : une grande salade pour le soir, des cakes au chocolat pour le petit déjeunner. Je ne sais pas quoi pas penser face à cette... poubelle et tout ce gâchis...  Sommes-nous si riches, pour payer tant de dégats ? Sommes-nous si inconscient pour vivre ainsi ? Au fond, je me sens un peu plus libre, l'auto-stop et la glane ce sont des manières de vivre autrement. Ces actes, ces deux derniers jours ont débloqués quelque chose en moi, une peur en moins de faire et d'essayer. Il s'agit du dépassement d'un blocage social, la fierté d'être un looser aux yeux de la société. Sommes-nous si pauvres pour avoir tant la rage de gagner ?  Je pense notamment au travail [des Gars'Pilleurs.](https://www.facebook.com/lesgarspilleurs/)
 
-*Auréli1* 
-:::
+### Jeudi 3 Août (J3)
 
-### <u>Jeudi 3 Août (J3)</u>
-
-#### <u>Présent.e.s</u>
+#### Présent.e.s
 + Michèle T.
 + Xavier C.
 + Aurélien M
@@ -357,7 +355,8 @@ $ geth --identity value                    Custom node name
 
 
 ![Marianne Brunet, CC-BY-NC-SA 4.0](http://i.imgur.com/ONEw6N0m.jpg)
-    > <title>Les contes du javascriptorium</title>
+    
+    <title>Les contes du javascriptorium</title>
     <meta charset=WTF-8>
     <script>
     var humonium = 'your name'
@@ -420,14 +419,14 @@ $ geth --identity value                    Custom node name
 + Maëlle (départ)
 + Pierre et Mickaël (arrivée nocturne)
 
-#### <u>Activités</u>
+#### Activités
 + Pêche au harpon (mûlet), puis dégustation en papillotte
 + promenade géologique jusqu'à Port Béni, visite du Dolmen Men Ar Rompet, observation des [orthogneiss](http://planet-terre.ens-lyon.fr/article/gneiss-icartien-Port-Beni.xml). Rencontre de Daniel, chercheur cancérologue (cousin de Michèle)
 + Visite de la vallée du Paradis (zone de projet en permaculture), cueillette de [saule marsault](https://www.preservons-la-nature.fr/flore/taxon/1030.html) pour vannerie décomplexée, identification de plantes
 + Dégustation de crêpes à Pleubian
 + Masterclass sur l'eau : gouvernance (part. 2/3)
 
-### <u>Lundi 14 Août (J13)</u>
+### Lundi 14 Août (J13)
 
 + Xavier C
 + Camille (départ)
