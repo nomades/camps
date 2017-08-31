@@ -1,3 +1,9 @@
+---
+title: Atelier Geek - Session #2
+description: sur les langage de programmation JavaScript et Elm, en Mob programming. 
+image_url: 
+---
+
 ###### Tags: `IndieCamp` `Kerbors` `atelier geek` `Elm` `JavaScript`
 
 # [[IndieCamp Kerbors](https://frama.link/indiecamp-kerbors-2017)] Atelier Geek - Session #2
