@@ -1,3 +1,9 @@
+---
+title: Atelier apprendre JavaScript en MobProgramming
+description: Pour éaliser une pallication de faceblinding sur le sujet de la prosapagnosie.
+image_url: 
+---
+
 # Atelier apprendre JavaScript en MobProgramming
 
 Par Stéphane Langlois, 23h, lors de l'IndeCamp kerbors 2017
