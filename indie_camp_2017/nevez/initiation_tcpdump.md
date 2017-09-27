@@ -1,4 +1,8 @@
-###### tags: `tcpdump` `digital privacy` `web security`
+---
+title: Initation à la sécurité informatique
+descritpion: tcpDump pour débutant
+image_url:
+---
 
 # [[IndieCamp Nevez](frama.link/indiecamp-nevez-2017)] Atelier d'initiation à la sécurité informatique (commande `tcpDump`)
 
