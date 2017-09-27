@@ -1,4 +1,8 @@
-###### Tags: `IndieCamp` `Nevez` `autonomie`
+---
+tilte: Carnet de Bord du Camp
+descritption: rédigé par les participants au jour le jour
+image_url:
+---
 
 # [IndieCamp à Nevez](frama.link/indiecamp-nevez-2017) (1-10 Juillet 2017)
 ![](https://framapic.org/DULzKVKf58B8/7NQ6PJULyac6)
