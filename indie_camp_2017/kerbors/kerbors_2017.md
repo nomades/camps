@@ -1,5 +1,5 @@
 ---
-title: Faites partie du Indie Camp 2017 à Kerbors
+title: Organisation d'avant camp
 description: Indie Camp du 1 au 15 août 2017 à Kerbors (Bretagne). Ateliers, jeux, conférences, organisation, Learning by Doing. Organisations et Retours d'expériences et de pratiques qui ont eu lieu de différents Indie Camps. Makers, Hackers, Ingenious People, Ecologists, Philosophers
 image_url: http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/180px-SummerCamp2016Kerbors.jpeg
 ---
