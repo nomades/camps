@@ -1,4 +1,8 @@
-###### Tags: `IndieCamp` `Kerbors` `autonomie`
+---
+title: Carnet de bord du Camp
+descritpion: rédigé au jour le jour par les participants.
+image_url:
+---
 
 # [IndieCamp à Kerbors](https://frama.link/indiecamp-kerbors-2017) (1-15 Août 2017)
 
