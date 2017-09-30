@@ -1,3 +1,8 @@
+---
+title: Taleir code informatique
+description: Quel JavaScript parle t-on aujourd'hui lorsqu'on utilise ce langage ? 
+image_url: 
+---
 
 # Geekeries Kerbos 2017
 
