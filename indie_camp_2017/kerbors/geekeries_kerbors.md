@@ -1,5 +1,5 @@
 ---
-title: Taleir code informatique
+title: Atelier code informatique
 description: Quel JavaScript parle t-on aujourd'hui lorsqu'on utilise ce langage ? 
 image_url: 
 ---
