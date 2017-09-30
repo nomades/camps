@@ -1,3 +1,10 @@
+---
+title: Initiation informatique collective
+description: Atelier pour apprendre JavaScript en MobProgramming
+image_url: 
+---
+
+
 # Atelier apprendre JavaScript en MobProgramming
 
 Par Stéphane Langlois, 23h, lors de l'IndeCamp kerbors 2017
