@@ -1,4 +1,8 @@
-###### Tags: `IndieCamp` `Kerbors` `atelier geek`
+---
+title: Entrainement et acculturation
+description: à l'utilisation d'un ordinateur sous Linux
+image_url:
+---
 
 # [[IndieCamp Kerbors](https://frama.link/indiecamp-kerbors-2017)] Atelier Geek - Session #0
 
