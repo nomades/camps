@@ -7,8 +7,8 @@ image_url: http://movilab.org/images/9/92/AlbumsharypicSummerCamp2016Kerbors.png
 # [#IndieCamp 2017] Carnet de bord Névez
 
 + [Carnet de bord du camp](https://hackmd.io/s/BJW5mESNW#)
-+ [la dcocumentation wiki sur movilab](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez)
-+ [Artcile du journal Makery](http://www.makery.info/2017/07/18/vis-ma-vie-dindiecamper-en-bretagne/)
++ [la documentation wiki sur movilab](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez)
++ [Article du journal Makery](http://www.makery.info/2017/07/18/vis-ma-vie-dindiecamper-en-bretagne/)
 
 Ceci est un fork d'une [édition précédente](https://github.com/LeBiome/camps/tree/master/indie_camp_kerbors_2016)
 ![](https://framapic.org/RypxRwG3WOmD/6iTid2Z1Zt1m)
