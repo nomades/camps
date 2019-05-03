@@ -23,11 +23,11 @@ image_url: https://github.com/multibao/contributions/blob/master/media/summercam
  * tu honores la [loi des deux pieds](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert#M.C3.A9thode).
  * tu sais que les personnes présentes sont les bonnes
 * Les parcipants viennent lors qu'ils le peuvent, ils restent le temps qu'ils souhatent
-* Les paricipants ne viennent pas le smains vides en fonction de leurs possibilités et de leurs projets
+* Les paricipants ne viennent pas les mains vides en fonction de leurs possibilités et de leurs projets
 * Le regime alimentaire de chacun est respecté et considéré avant l'ouverture du camp
 * Ce qui ressort de ce summer camp sont les fruits des jardins communs cultivés par les parties prenantes
 
-Mis en page à partir de [Le Biome](https://github.com/LeBiome/summer_camp_2016/blob/master/README.md)
+Mis en page à partir de [Le Biome](https://github.com/LeBiome/camps)
 
 ## Summer Camp kerbors : J1 open rov 
 
